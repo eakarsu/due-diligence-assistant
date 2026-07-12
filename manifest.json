@@ -1,0 +1,30 @@
+{
+  "id": "due-diligence-assistant",
+  "title": "Due Diligence Assistant App",
+  "industry": "Legal, Compliance & Risk",
+  "industryId": "legal-compliance-risk",
+  "specialization": "Due Diligence Assistant",
+  "sourcePlatformGroup": "contracts-procurement-platform",
+  "sources": [
+    "AIDueDiligenceAssistant",
+    "AIMandADealRoom",
+    "AIProposalSOWGenerator",
+    "government_contracts"
+  ],
+  "featureCount": 206,
+  "candidateFeatureCount": 330,
+  "eliminatedSimilarFeatures": 124,
+  "evidenceCount": 519,
+  "aiPageCount": 23,
+  "sourceAIPageCount": 23,
+  "featureEvidencePolicy": "Existing source routes, pages, APIs, models, schemas, and navigation only",
+  "optimizationPolicy": "Equivalent feature names are consolidated once per industry and assigned to one canonical app owner",
+  "database": "database.sqlite",
+  "databaseSeed": {
+    "seededProjects": 2,
+    "seededTables": 38,
+    "seededRows": 570
+  },
+  "visibleFeatureCount": 86,
+  "featureVisibilityMode": "seeded-or-ai"
+}
