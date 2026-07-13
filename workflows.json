@@ -1,0 +1,754 @@
+{
+  "version": 1,
+  "appId": "due-diligence-assistant",
+  "workflows": [
+    {
+      "id": "target-intake",
+      "title": "Target Intake",
+      "description": "Open a diligence matter with transaction scope, ownership, confidentiality, and review deadlines.",
+      "fields": [
+        {
+          "key": "targetName",
+          "label": "Target name",
+          "type": "text",
+          "required": true,
+          "default": "Northstar Components (Demo)"
+        },
+        {
+          "key": "transactionType",
+          "label": "Transaction type",
+          "type": "select",
+          "required": true,
+          "options": [
+            "Acquisition",
+            "Investment",
+            "Partnership",
+            "Vendor"
+          ],
+          "default": "Acquisition"
+        },
+        {
+          "key": "jurisdiction",
+          "label": "Primary jurisdiction",
+          "type": "text",
+          "required": true,
+          "default": "Delaware, United States"
+        },
+        {
+          "key": "dealLead",
+          "label": "Deal lead",
+          "type": "text",
+          "required": true,
+          "default": "Demo Deal Lead"
+        },
+        {
+          "key": "targetCloseDate",
+          "label": "Target close date",
+          "type": "date",
+          "required": true,
+          "default": "2026-10-30"
+        }
+      ],
+      "states": [
+        "draft",
+        "conflicts_review",
+        "accepted",
+        "closed"
+      ],
+      "transitions": [
+        {
+          "id": "target-intake-conflicts_review",
+          "label": "Move to conflicts review",
+          "from": [
+            "draft"
+          ],
+          "to": "conflicts_review"
+        },
+        {
+          "id": "target-intake-accepted",
+          "label": "Move to accepted",
+          "from": [
+            "conflicts_review"
+          ],
+          "to": "accepted"
+        },
+        {
+          "id": "target-intake-closed",
+          "label": "Move to closed",
+          "from": [
+            "accepted"
+          ],
+          "to": "closed"
+        }
+      ],
+      "seeds": [
+        {
+          "id": "target-intake-demo",
+          "state": "draft",
+          "targetName": "Northstar Components (Demo)",
+          "transactionType": "Acquisition",
+          "jurisdiction": "Delaware, United States",
+          "dealLead": "Demo Deal Lead",
+          "targetCloseDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "document-room-review",
+      "title": "Document Room Review",
+      "description": "Inventory locally provided documents, classify completeness, and assign evidence gaps for follow-up.",
+      "fields": [
+        {
+          "key": "matterReference",
+          "label": "Matter reference",
+          "type": "text",
+          "required": true,
+          "default": "DD-DEMO-001"
+        },
+        {
+          "key": "documentSource",
+          "label": "Document source",
+          "type": "select",
+          "required": true,
+          "options": [
+            "Local upload",
+            "Manual entry",
+            "Sandbox connector"
+          ],
+          "default": "Local upload"
+        },
+        {
+          "key": "documentCategories",
+          "label": "Document categories",
+          "type": "textarea",
+          "required": true,
+          "default": "Corporate; financial; tax; employment; commercial"
+        },
+        {
+          "key": "completenessPercent",
+          "label": "Completeness percent",
+          "type": "number",
+          "required": true,
+          "default": 72
+        },
+        {
+          "key": "reviewOwner",
+          "label": "Review owner",
+          "type": "text",
+          "required": true,
+          "default": "Demo Review Team"
+        }
+      ],
+      "states": [
+        "inventoried",
+        "reviewing",
+        "gaps_identified",
+        "complete"
+      ],
+      "transitions": [
+        {
+          "id": "document-room-review-reviewing",
+          "label": "Move to reviewing",
+          "from": [
+            "inventoried"
+          ],
+          "to": "reviewing"
+        },
+        {
+          "id": "document-room-review-gaps_identified",
+          "label": "Move to gaps identified",
+          "from": [
+            "reviewing"
+          ],
+          "to": "gaps_identified"
+        },
+        {
+          "id": "document-room-review-complete",
+          "label": "Move to complete",
+          "from": [
+            "gaps_identified"
+          ],
+          "to": "complete"
+        }
+      ],
+      "seeds": [
+        {
+          "id": "document-room-review-demo",
+          "state": "inventoried",
+          "matterReference": "DD-DEMO-001",
+          "documentSource": "Local upload",
+          "documentCategories": "Corporate; financial; tax; employment; commercial",
+          "completenessPercent": 72,
+          "reviewOwner": "Demo Review Team"
+        }
+      ]
+    },
+    {
+      "id": "financial-quality-of-earnings",
+      "title": "Financial Quality of Earnings",
+      "description": "Normalize earnings, test key adjustments, and route financial findings for specialist approval.",
+      "fields": [
+        {
+          "key": "period",
+          "label": "Analysis period",
+          "type": "text",
+          "required": true,
+          "default": "FY2025 and LTM Jun-2026"
+        },
+        {
+          "key": "reportedEbitda",
+          "label": "Reported EBITDA",
+          "type": "number",
+          "required": true,
+          "default": 8200000
+        },
+        {
+          "key": "proposedAdjustments",
+          "label": "Proposed adjustments",
+          "type": "number",
+          "required": true,
+          "default": 650000
+        },
+        {
+          "key": "workingCapitalFinding",
+          "label": "Working-capital finding",
+          "type": "textarea",
+          "required": true,
+          "default": "Seasonal inventory build requires a normalized peg review."
+        },
+        {
+          "key": "confidence",
+          "label": "Analysis confidence",
+          "type": "select",
+          "required": true,
+          "options": [
+            "Low",
+            "Medium",
+            "High"
+          ],
+          "default": "Medium"
+        }
+      ],
+      "states": [
+        "prepared",
+        "analyzed",
+        "specialist_review",
+        "approved"
+      ],
+      "transitions": [
+        {
+          "id": "financial-quality-of-earnings-analyzed",
+          "label": "Move to analyzed",
+          "from": [
+            "prepared"
+          ],
+          "to": "analyzed"
+        },
+        {
+          "id": "financial-quality-of-earnings-specialist_review",
+          "label": "Move to specialist review",
+          "from": [
+            "analyzed"
+          ],
+          "to": "specialist_review"
+        },
+        {
+          "id": "financial-quality-of-earnings-approved",
+          "label": "Move to approved",
+          "from": [
+            "specialist_review"
+          ],
+          "to": "approved"
+        }
+      ],
+      "seeds": [
+        {
+          "id": "financial-quality-of-earnings-demo",
+          "state": "prepared",
+          "period": "FY2025 and LTM Jun-2026",
+          "reportedEbitda": 8200000,
+          "proposedAdjustments": 650000,
+          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review.",
+          "confidence": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "risk-and-compliance-review",
+      "title": "Risk and Compliance Review",
+      "description": "Assess legal, regulatory, cyber, privacy, sanctions, and contractual risks with traceable evidence.",
+      "fields": [
+        {
+          "key": "matterReference",
+          "label": "Matter reference",
+          "type": "text",
+          "required": true,
+          "default": "DD-DEMO-001"
+        },
+        {
+          "key": "riskDomain",
+          "label": "Risk domain",
+          "type": "select",
+          "required": true,
+          "options": [
+            "Corporate",
+            "Regulatory",
+            "Data privacy",
+            "Cybersecurity",
+            "Sanctions",
+            "Commercial"
+          ],
+          "default": "Data privacy"
+        },
+        {
+          "key": "finding",
+          "label": "Finding",
+          "type": "textarea",
+          "required": true,
+          "default": "Two processor agreements require updated data-transfer terms."
+        },
+        {
+          "key": "severity",
+          "label": "Severity",
+          "type": "select",
+          "required": true,
+          "options": [
+            "Low",
+            "Medium",
+            "High",
+            "Critical"
+          ],
+          "default": "High"
+        },
+        {
+          "key": "evidenceReference",
+          "label": "Evidence reference",
+          "type": "text",
+          "required": true,
+          "default": "Local document PRIV-07"
+        }
+      ],
+      "states": [
+        "scoping",
+        "screening",
+        "counsel_review",
+        "resolved"
+      ],
+      "transitions": [
+        {
+          "id": "risk-and-compliance-review-screening",
+          "label": "Move to screening",
+          "from": [
+            "scoping"
+          ],
+          "to": "screening"
+        },
+        {
+          "id": "risk-and-compliance-review-counsel_review",
+          "label": "Move to counsel review",
+          "from": [
+            "screening"
+          ],
+          "to": "counsel_review"
+        },
+        {
+          "id": "risk-and-compliance-review-resolved",
+          "label": "Move to resolved",
+          "from": [
+            "counsel_review"
+          ],
+          "to": "resolved"
+        }
+      ],
+      "seeds": [
+        {
+          "id": "risk-and-compliance-review-demo",
+          "state": "scoping",
+          "matterReference": "DD-DEMO-001",
+          "riskDomain": "Data privacy",
+          "finding": "Two processor agreements require updated data-transfer terms.",
+          "severity": "High",
+          "evidenceReference": "Local document PRIV-07"
+        }
+      ]
+    },
+    {
+      "id": "management-and-cultural-fit",
+      "title": "Management and Cultural Fit",
+      "description": "Structure management interviews and operating-model observations into a reviewed integration assessment.",
+      "fields": [
+        {
+          "key": "team",
+          "label": "Management team",
+          "type": "text",
+          "required": true,
+          "default": "Executive and operations leadership"
+        },
+        {
+          "key": "assessmentAreas",
+          "label": "Assessment areas",
+          "type": "textarea",
+          "required": true,
+          "default": "Leadership depth; incentives; decision rights; retention risk"
+        },
+        {
+          "key": "keyPersonRisk",
+          "label": "Key-person risk",
+          "type": "select",
+          "required": true,
+          "options": [
+            "Low",
+            "Medium",
+            "High"
+          ],
+          "default": "Medium"
+        },
+        {
+          "key": "interviewer",
+          "label": "Interview owner",
+          "type": "text",
+          "required": true,
+          "default": "Demo Operating Partner"
+        },
+        {
+          "key": "notes",
+          "label": "Preliminary notes",
+          "type": "textarea",
+          "required": true,
+          "default": "Customer relationships are concentrated with two founders."
+        }
+      ],
+      "states": [
+        "planned",
+        "interviewing",
+        "synthesized",
+        "approved"
+      ],
+      "transitions": [
+        {
+          "id": "management-and-cultural-fit-interviewing",
+          "label": "Move to interviewing",
+          "from": [
+            "planned"
+          ],
+          "to": "interviewing"
+        },
+        {
+          "id": "management-and-cultural-fit-synthesized",
+          "label": "Move to synthesized",
+          "from": [
+            "interviewing"
+          ],
+          "to": "synthesized"
+        },
+        {
+          "id": "management-and-cultural-fit-approved",
+          "label": "Move to approved",
+          "from": [
+            "synthesized"
+          ],
+          "to": "approved"
+        }
+      ],
+      "seeds": [
+        {
+          "id": "management-and-cultural-fit-demo",
+          "state": "planned",
+          "team": "Executive and operations leadership",
+          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk",
+          "keyPersonRisk": "Medium",
+          "interviewer": "Demo Operating Partner",
+          "notes": "Customer relationships are concentrated with two founders."
+        }
+      ]
+    },
+    {
+      "id": "valuation-and-synergy",
+      "title": "Valuation and Synergy",
+      "description": "Model valuation inputs and synergy assumptions, then record reviewed upside and execution risk.",
+      "fields": [
+        {
+          "key": "valuationMethod",
+          "label": "Valuation method",
+          "type": "select",
+          "required": true,
+          "options": [
+            "EBITDA multiple",
+            "Discounted cash flow",
+            "Revenue multiple"
+          ],
+          "default": "EBITDA multiple"
+        },
+        {
+          "key": "enterpriseValue",
+          "label": "Enterprise value",
+          "type": "number",
+          "required": true,
+          "default": 96000000
+        },
+        {
+          "key": "baseSynergies",
+          "label": "Base annual synergies",
+          "type": "number",
+          "required": true,
+          "default": 4500000
+        },
+        {
+          "key": "oneTimeCosts",
+          "label": "One-time integration costs",
+          "type": "number",
+          "required": true,
+          "default": 7200000
+        },
+        {
+          "key": "synergyRisk",
+          "label": "Synergy realization risk",
+          "type": "select",
+          "required": true,
+          "options": [
+            "Low",
+            "Medium",
+            "High"
+          ],
+          "default": "Medium"
+        }
+      ],
+      "states": [
+        "modeled",
+        "challenged",
+        "approved",
+        "locked"
+      ],
+      "transitions": [
+        {
+          "id": "valuation-and-synergy-challenged",
+          "label": "Move to challenged",
+          "from": [
+            "modeled"
+          ],
+          "to": "challenged"
+        },
+        {
+          "id": "valuation-and-synergy-approved",
+          "label": "Move to approved",
+          "from": [
+            "challenged"
+          ],
+          "to": "approved"
+        },
+        {
+          "id": "valuation-and-synergy-locked",
+          "label": "Move to locked",
+          "from": [
+            "approved"
+          ],
+          "to": "locked"
+        }
+      ],
+      "seeds": [
+        {
+          "id": "valuation-and-synergy-demo",
+          "state": "modeled",
+          "valuationMethod": "EBITDA multiple",
+          "enterpriseValue": 96000000,
+          "baseSynergies": 4500000,
+          "oneTimeCosts": 7200000,
+          "synergyRisk": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "diligence-decision-gate",
+      "title": "Diligence Decision Gate",
+      "description": "Aggregate reviewed findings into a documented proceed, condition, renegotiate, or stop recommendation.",
+      "fields": [
+        {
+          "key": "matterReference",
+          "label": "Matter reference",
+          "type": "text",
+          "required": true,
+          "default": "DD-DEMO-001"
+        },
+        {
+          "key": "recommendation",
+          "label": "Recommendation",
+          "type": "select",
+          "required": true,
+          "options": [
+            "Proceed",
+            "Proceed with conditions",
+            "Renegotiate",
+            "Stop"
+          ],
+          "default": "Proceed with conditions"
+        },
+        {
+          "key": "criticalConditions",
+          "label": "Critical conditions",
+          "type": "textarea",
+          "required": true,
+          "default": "Resolve privacy terms and confirm working-capital peg before signing."
+        },
+        {
+          "key": "decisionOwner",
+          "label": "Decision owner",
+          "type": "text",
+          "required": true,
+          "default": "Demo Investment Committee"
+        },
+        {
+          "key": "decisionDate",
+          "label": "Decision date",
+          "type": "date",
+          "required": true,
+          "default": "2026-09-15"
+        }
+      ],
+      "states": [
+        "assembling",
+        "committee_review",
+        "decided",
+        "archived"
+      ],
+      "transitions": [
+        {
+          "id": "diligence-decision-gate-committee_review",
+          "label": "Move to committee review",
+          "from": [
+            "assembling"
+          ],
+          "to": "committee_review"
+        },
+        {
+          "id": "diligence-decision-gate-decided",
+          "label": "Move to decided",
+          "from": [
+            "committee_review"
+          ],
+          "to": "decided"
+        },
+        {
+          "id": "diligence-decision-gate-archived",
+          "label": "Move to archived",
+          "from": [
+            "decided"
+          ],
+          "to": "archived"
+        }
+      ],
+      "seeds": [
+        {
+          "id": "diligence-decision-gate-demo",
+          "state": "assembling",
+          "matterReference": "DD-DEMO-001",
+          "recommendation": "Proceed with conditions",
+          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing.",
+          "decisionOwner": "Demo Investment Committee",
+          "decisionDate": "2026-09-15"
+        }
+      ]
+    },
+    {
+      "id": "reporting-and-integration-readiness",
+      "title": "Reporting and Integration Readiness",
+      "description": "Publish a local diligence summary and assess data-room, screening, CRM, and archive connector readiness.",
+      "fields": [
+        {
+          "key": "reportType",
+          "label": "Report type",
+          "type": "select",
+          "required": true,
+          "options": [
+            "Executive diligence summary",
+            "Risk register",
+            "Closing conditions",
+            "Integration handoff"
+          ],
+          "default": "Executive diligence summary"
+        },
+        {
+          "key": "audience",
+          "label": "Audience",
+          "type": "text",
+          "required": true,
+          "default": "Investment committee"
+        },
+        {
+          "key": "provider",
+          "label": "External provider or adapter",
+          "type": "text",
+          "required": true,
+          "default": "Local fixture adapter"
+        },
+        {
+          "key": "environment",
+          "label": "Environment",
+          "type": "select",
+          "required": true,
+          "options": [
+            "Local fixture",
+            "Sandbox configuration",
+            "Production configuration"
+          ],
+          "default": "Local fixture"
+        },
+        {
+          "key": "connectionStatus",
+          "label": "Connection status",
+          "type": "select",
+          "required": true,
+          "options": [
+            "Not configured",
+            "Needs credentials",
+            "Test ready",
+            "Blocked"
+          ],
+          "default": "Not configured"
+        }
+      ],
+      "states": [
+        "draft",
+        "reviewed",
+        "test_ready",
+        "published"
+      ],
+      "transitions": [
+        {
+          "id": "reporting-and-integration-readiness-reviewed",
+          "label": "Move to reviewed",
+          "from": [
+            "draft"
+          ],
+          "to": "reviewed"
+        },
+        {
+          "id": "reporting-and-integration-readiness-test_ready",
+          "label": "Move to test ready",
+          "from": [
+            "reviewed"
+          ],
+          "to": "test_ready"
+        },
+        {
+          "id": "reporting-and-integration-readiness-published",
+          "label": "Move to published",
+          "from": [
+            "test_ready"
+          ],
+          "to": "published"
+        }
+      ],
+      "seeds": [
+        {
+          "id": "reporting-and-integration-readiness-demo",
+          "state": "draft",
+          "reportType": "Executive diligence summary",
+          "audience": "Investment committee",
+          "provider": "Local fixture adapter",
+          "environment": "Local fixture",
+          "connectionStatus": "Not configured"
+        }
+      ]
+    }
+  ]
+}
