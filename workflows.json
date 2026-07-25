@@ -85,137 +85,137 @@
         {
           "id": "target-intake-001",
           "state": "draft",
-          "targetName": "Northstar Components (Demo) — North Region — North Region",
+          "targetName": "Northstar Components (Demo) — North Region — North Region — North Region — North Region — North Region",
           "transactionType": "Acquisition",
-          "jurisdiction": "Delaware, United States — North Region — North Region",
-          "dealLead": "Demo Deal Lead — North Region — North Region",
+          "jurisdiction": "Delaware, United States — North Region — North Region — North Region — North Region — North Region",
+          "dealLead": "Demo Deal Lead — North Region — North Region — North Region — North Region — North Region",
           "targetCloseDate": "2026-10-30"
         },
         {
           "id": "target-intake-002",
           "state": "draft",
-          "targetName": "Northstar Components (Demo) — Enterprise Account — Enterprise Account",
+          "targetName": "Northstar Components (Demo) — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "transactionType": "Investment",
-          "jurisdiction": "Delaware, United States — Enterprise Account — Enterprise Account",
-          "dealLead": "Demo Deal Lead — Enterprise Account — Enterprise Account",
-          "targetCloseDate": "2026-11-01"
+          "jurisdiction": "Delaware, United States — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
+          "dealLead": "Demo Deal Lead — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
+          "targetCloseDate": "2026-11-04"
         },
         {
           "id": "target-intake-003",
           "state": "draft",
-          "targetName": "Northstar Components (Demo) — Quarterly Cycle — Quarterly Cycle",
+          "targetName": "Northstar Components (Demo) — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "transactionType": "Partnership",
-          "jurisdiction": "Delaware, United States — Quarterly Cycle — Quarterly Cycle",
-          "dealLead": "Demo Deal Lead — Quarterly Cycle — Quarterly Cycle",
-          "targetCloseDate": "2026-11-03"
+          "jurisdiction": "Delaware, United States — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
+          "dealLead": "Demo Deal Lead — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
+          "targetCloseDate": "2026-11-09"
         },
         {
           "id": "target-intake-004",
           "state": "draft",
-          "targetName": "Northstar Components (Demo) — Priority Queue — Priority Queue",
+          "targetName": "Northstar Components (Demo) — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "transactionType": "Vendor",
-          "jurisdiction": "Delaware, United States — Priority Queue — Priority Queue",
-          "dealLead": "Demo Deal Lead — Priority Queue — Priority Queue",
-          "targetCloseDate": "2026-11-05"
+          "jurisdiction": "Delaware, United States — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
+          "dealLead": "Demo Deal Lead — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
+          "targetCloseDate": "2026-11-14"
         },
         {
           "id": "target-intake-005",
           "state": "draft",
-          "targetName": "Northstar Components (Demo) — Operations Review — Operations Review",
+          "targetName": "Northstar Components (Demo) — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "transactionType": "Acquisition",
-          "jurisdiction": "Delaware, United States — Operations Review — Operations Review",
-          "dealLead": "Demo Deal Lead — Operations Review — Operations Review",
-          "targetCloseDate": "2026-11-07"
+          "jurisdiction": "Delaware, United States — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
+          "dealLead": "Demo Deal Lead — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
+          "targetCloseDate": "2026-11-19"
         },
         {
           "id": "target-intake-006",
           "state": "draft",
-          "targetName": "Northstar Components (Demo) — Customer Request — Customer Request",
+          "targetName": "Northstar Components (Demo) — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "transactionType": "Investment",
-          "jurisdiction": "Delaware, United States — Customer Request — Customer Request",
-          "dealLead": "Demo Deal Lead — Customer Request — Customer Request",
-          "targetCloseDate": "2026-11-09"
+          "jurisdiction": "Delaware, United States — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
+          "dealLead": "Demo Deal Lead — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
+          "targetCloseDate": "2026-11-24"
         },
         {
           "id": "target-intake-007",
           "state": "draft",
-          "targetName": "Northstar Components (Demo) — Compliance Check — Compliance Check",
+          "targetName": "Northstar Components (Demo) — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "transactionType": "Partnership",
-          "jurisdiction": "Delaware, United States — Compliance Check — Compliance Check",
-          "dealLead": "Demo Deal Lead — Compliance Check — Compliance Check",
-          "targetCloseDate": "2026-11-11"
+          "jurisdiction": "Delaware, United States — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
+          "dealLead": "Demo Deal Lead — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
+          "targetCloseDate": "2026-11-29"
         },
         {
           "id": "target-intake-008",
           "state": "draft",
-          "targetName": "Northstar Components (Demo) — Service Window — Service Window",
+          "targetName": "Northstar Components (Demo) — Service Window — Service Window — Service Window — Service Window — Service Window",
           "transactionType": "Vendor",
-          "jurisdiction": "Delaware, United States — Service Window — Service Window",
-          "dealLead": "Demo Deal Lead — Service Window — Service Window",
-          "targetCloseDate": "2026-11-13"
+          "jurisdiction": "Delaware, United States — Service Window — Service Window — Service Window — Service Window — Service Window",
+          "dealLead": "Demo Deal Lead — Service Window — Service Window — Service Window — Service Window — Service Window",
+          "targetCloseDate": "2026-12-04"
         },
         {
           "id": "target-intake-009",
           "state": "draft",
-          "targetName": "Northstar Components (Demo) — Quality Sample — Quality Sample",
+          "targetName": "Northstar Components (Demo) — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "transactionType": "Acquisition",
-          "jurisdiction": "Delaware, United States — Quality Sample — Quality Sample",
-          "dealLead": "Demo Deal Lead — Quality Sample — Quality Sample",
-          "targetCloseDate": "2026-11-15"
+          "jurisdiction": "Delaware, United States — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
+          "dealLead": "Demo Deal Lead — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
+          "targetCloseDate": "2026-12-09"
         },
         {
           "id": "target-intake-010",
           "state": "draft",
-          "targetName": "Northstar Components (Demo) — Management Review — Management Review",
+          "targetName": "Northstar Components (Demo) — Management Review — Management Review — Management Review — Management Review — Management Review",
           "transactionType": "Investment",
-          "jurisdiction": "Delaware, United States — Management Review — Management Review",
-          "dealLead": "Demo Deal Lead — Management Review — Management Review",
-          "targetCloseDate": "2026-11-17"
+          "jurisdiction": "Delaware, United States — Management Review — Management Review — Management Review — Management Review — Management Review",
+          "dealLead": "Demo Deal Lead — Management Review — Management Review — Management Review — Management Review — Management Review",
+          "targetCloseDate": "2026-12-14"
         },
         {
           "id": "target-intake-011",
           "state": "draft",
-          "targetName": "Northstar Components (Demo) — Exception Follow-up — Exception Follow-up",
+          "targetName": "Northstar Components (Demo) — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "transactionType": "Partnership",
-          "jurisdiction": "Delaware, United States — Exception Follow-up — Exception Follow-up",
-          "dealLead": "Demo Deal Lead — Exception Follow-up — Exception Follow-up",
-          "targetCloseDate": "2026-11-19"
+          "jurisdiction": "Delaware, United States — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
+          "dealLead": "Demo Deal Lead — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
+          "targetCloseDate": "2026-12-19"
         },
         {
           "id": "target-intake-012",
           "state": "draft",
-          "targetName": "Northstar Components (Demo) — Evidence Package — Evidence Package",
+          "targetName": "Northstar Components (Demo) — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "transactionType": "Vendor",
-          "jurisdiction": "Delaware, United States — Evidence Package — Evidence Package",
-          "dealLead": "Demo Deal Lead — Evidence Package — Evidence Package",
-          "targetCloseDate": "2026-11-21"
+          "jurisdiction": "Delaware, United States — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
+          "dealLead": "Demo Deal Lead — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
+          "targetCloseDate": "2026-12-24"
         },
         {
           "id": "target-intake-013",
           "state": "draft",
-          "targetName": "Northstar Components (Demo) — Planning Cycle — Planning Cycle",
+          "targetName": "Northstar Components (Demo) — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "transactionType": "Acquisition",
-          "jurisdiction": "Delaware, United States — Planning Cycle — Planning Cycle",
-          "dealLead": "Demo Deal Lead — Planning Cycle — Planning Cycle",
-          "targetCloseDate": "2026-11-23"
+          "jurisdiction": "Delaware, United States — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
+          "dealLead": "Demo Deal Lead — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
+          "targetCloseDate": "2026-12-29"
         },
         {
           "id": "target-intake-014",
           "state": "draft",
-          "targetName": "Northstar Components (Demo) — Performance Review — Performance Review",
+          "targetName": "Northstar Components (Demo) — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "transactionType": "Investment",
-          "jurisdiction": "Delaware, United States — Performance Review — Performance Review",
-          "dealLead": "Demo Deal Lead — Performance Review — Performance Review",
-          "targetCloseDate": "2026-11-25"
+          "jurisdiction": "Delaware, United States — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
+          "dealLead": "Demo Deal Lead — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
+          "targetCloseDate": "2027-01-03"
         },
         {
           "id": "target-intake-015",
           "state": "draft",
-          "targetName": "Northstar Components (Demo) — Final Verification — Final Verification",
+          "targetName": "Northstar Components (Demo) — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "transactionType": "Partnership",
-          "jurisdiction": "Delaware, United States — Final Verification — Final Verification",
-          "dealLead": "Demo Deal Lead — Final Verification — Final Verification",
-          "targetCloseDate": "2026-11-27"
+          "jurisdiction": "Delaware, United States — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
+          "dealLead": "Demo Deal Lead — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
+          "targetCloseDate": "2027-01-08"
         }
       ]
     },
@@ -303,7 +303,7 @@
           "state": "inventoried",
           "matterReference": "DUE-DILIGE-0001",
           "documentSource": "Local upload",
-          "documentCategories": "Corporate; financial; tax; employment; commercial — North Region — North Region",
+          "documentCategories": "Corporate; financial; tax; employment; commercial — North Region — North Region — North Region — North Region — North Region",
           "completenessPercent": 72.0,
           "reviewOwner": "Avery Morgan"
         },
@@ -312,8 +312,8 @@
           "state": "inventoried",
           "matterReference": "DUE-DILIGE-0002",
           "documentSource": "Manual entry",
-          "documentCategories": "Corporate; financial; tax; employment; commercial — Enterprise Account — Enterprise Account",
-          "completenessPercent": 74.0,
+          "documentCategories": "Corporate; financial; tax; employment; commercial — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
+          "completenessPercent": 77.0,
           "reviewOwner": "Jordan Lee"
         },
         {
@@ -321,8 +321,8 @@
           "state": "inventoried",
           "matterReference": "DUE-DILIGE-0003",
           "documentSource": "Sandbox connector",
-          "documentCategories": "Corporate; financial; tax; employment; commercial — Quarterly Cycle — Quarterly Cycle",
-          "completenessPercent": 76.0,
+          "documentCategories": "Corporate; financial; tax; employment; commercial — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
+          "completenessPercent": 82.0,
           "reviewOwner": "Taylor Brooks"
         },
         {
@@ -330,8 +330,8 @@
           "state": "inventoried",
           "matterReference": "DUE-DILIGE-0004",
           "documentSource": "Local upload",
-          "documentCategories": "Corporate; financial; tax; employment; commercial — Priority Queue — Priority Queue",
-          "completenessPercent": 78.0,
+          "documentCategories": "Corporate; financial; tax; employment; commercial — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
+          "completenessPercent": 87.0,
           "reviewOwner": "Morgan Chen"
         },
         {
@@ -339,8 +339,8 @@
           "state": "inventoried",
           "matterReference": "DUE-DILIGE-0005",
           "documentSource": "Manual entry",
-          "documentCategories": "Corporate; financial; tax; employment; commercial — Operations Review — Operations Review",
-          "completenessPercent": 80.0,
+          "documentCategories": "Corporate; financial; tax; employment; commercial — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
+          "completenessPercent": 92.0,
           "reviewOwner": "Riley Patel"
         },
         {
@@ -348,8 +348,8 @@
           "state": "inventoried",
           "matterReference": "DUE-DILIGE-0006",
           "documentSource": "Sandbox connector",
-          "documentCategories": "Corporate; financial; tax; employment; commercial — Customer Request — Customer Request",
-          "completenessPercent": 82.0,
+          "documentCategories": "Corporate; financial; tax; employment; commercial — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
+          "completenessPercent": 97.0,
           "reviewOwner": "Casey Nguyen"
         },
         {
@@ -357,8 +357,8 @@
           "state": "inventoried",
           "matterReference": "DUE-DILIGE-0007",
           "documentSource": "Local upload",
-          "documentCategories": "Corporate; financial; tax; employment; commercial — Compliance Check — Compliance Check",
-          "completenessPercent": 84.0,
+          "documentCategories": "Corporate; financial; tax; employment; commercial — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
+          "completenessPercent": 102.0,
           "reviewOwner": "Cameron Diaz"
         },
         {
@@ -366,8 +366,8 @@
           "state": "inventoried",
           "matterReference": "DUE-DILIGE-0008",
           "documentSource": "Manual entry",
-          "documentCategories": "Corporate; financial; tax; employment; commercial — Service Window — Service Window",
-          "completenessPercent": 86.0,
+          "documentCategories": "Corporate; financial; tax; employment; commercial — Service Window — Service Window — Service Window — Service Window — Service Window",
+          "completenessPercent": 107.0,
           "reviewOwner": "Drew Wilson"
         },
         {
@@ -375,8 +375,8 @@
           "state": "inventoried",
           "matterReference": "DUE-DILIGE-0009",
           "documentSource": "Sandbox connector",
-          "documentCategories": "Corporate; financial; tax; employment; commercial — Quality Sample — Quality Sample",
-          "completenessPercent": 88.0,
+          "documentCategories": "Corporate; financial; tax; employment; commercial — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
+          "completenessPercent": 112.0,
           "reviewOwner": "Emerson Clark"
         },
         {
@@ -384,8 +384,8 @@
           "state": "inventoried",
           "matterReference": "DUE-DILIGE-0010",
           "documentSource": "Local upload",
-          "documentCategories": "Corporate; financial; tax; employment; commercial — Management Review — Management Review",
-          "completenessPercent": 90.0,
+          "documentCategories": "Corporate; financial; tax; employment; commercial — Management Review — Management Review — Management Review — Management Review — Management Review",
+          "completenessPercent": 117.0,
           "reviewOwner": "Hayden Kim"
         },
         {
@@ -393,8 +393,8 @@
           "state": "inventoried",
           "matterReference": "DUE-DILIGE-0011",
           "documentSource": "Manual entry",
-          "documentCategories": "Corporate; financial; tax; employment; commercial — Exception Follow-up — Exception Follow-up",
-          "completenessPercent": 92.0,
+          "documentCategories": "Corporate; financial; tax; employment; commercial — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
+          "completenessPercent": 122.0,
           "reviewOwner": "Jamie Rivera"
         },
         {
@@ -402,8 +402,8 @@
           "state": "inventoried",
           "matterReference": "DUE-DILIGE-0012",
           "documentSource": "Sandbox connector",
-          "documentCategories": "Corporate; financial; tax; employment; commercial — Evidence Package — Evidence Package",
-          "completenessPercent": 94.0,
+          "documentCategories": "Corporate; financial; tax; employment; commercial — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
+          "completenessPercent": 127.0,
           "reviewOwner": "Kai Thompson"
         },
         {
@@ -411,8 +411,8 @@
           "state": "inventoried",
           "matterReference": "DUE-DILIGE-0013",
           "documentSource": "Local upload",
-          "documentCategories": "Corporate; financial; tax; employment; commercial — Planning Cycle — Planning Cycle",
-          "completenessPercent": 96.0,
+          "documentCategories": "Corporate; financial; tax; employment; commercial — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
+          "completenessPercent": 132.0,
           "reviewOwner": "Logan Shah"
         },
         {
@@ -420,8 +420,8 @@
           "state": "inventoried",
           "matterReference": "DUE-DILIGE-0014",
           "documentSource": "Manual entry",
-          "documentCategories": "Corporate; financial; tax; employment; commercial — Performance Review — Performance Review",
-          "completenessPercent": 98.0,
+          "documentCategories": "Corporate; financial; tax; employment; commercial — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
+          "completenessPercent": 137.0,
           "reviewOwner": "Parker Evans"
         },
         {
@@ -429,8 +429,8 @@
           "state": "inventoried",
           "matterReference": "DUE-DILIGE-0015",
           "documentSource": "Sandbox connector",
-          "documentCategories": "Corporate; financial; tax; employment; commercial — Final Verification — Final Verification",
-          "completenessPercent": 100.0,
+          "documentCategories": "Corporate; financial; tax; employment; commercial — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
+          "completenessPercent": 142.0,
           "reviewOwner": "Quinn Murphy"
         }
       ]
@@ -517,136 +517,136 @@
         {
           "id": "financial-quality-of-earnings-001",
           "state": "prepared",
-          "period": "FY2025 and LTM Jun-2026 — North Region — North Region",
+          "period": "FY2025 and LTM Jun-2026 — North Region — North Region — North Region — North Region — North Region",
           "reportedEbitda": 8200000.0,
           "proposedAdjustments": 650000.0,
-          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — North Region — North Region",
+          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — North Region — North Region — North Region — North Region — North Region",
           "confidence": "Low"
         },
         {
           "id": "financial-quality-of-earnings-002",
           "state": "prepared",
-          "period": "FY2025 and LTM Jun-2026 — Enterprise Account — Enterprise Account",
-          "reportedEbitda": 8200002.0,
-          "proposedAdjustments": 650002.0,
-          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Enterprise Account — Enterprise Account",
+          "period": "FY2025 and LTM Jun-2026 — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
+          "reportedEbitda": 8200005.0,
+          "proposedAdjustments": 650005.0,
+          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "confidence": "Medium"
         },
         {
           "id": "financial-quality-of-earnings-003",
           "state": "prepared",
-          "period": "FY2025 and LTM Jun-2026 — Quarterly Cycle — Quarterly Cycle",
-          "reportedEbitda": 8200004.0,
-          "proposedAdjustments": 650004.0,
-          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Quarterly Cycle — Quarterly Cycle",
+          "period": "FY2025 and LTM Jun-2026 — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
+          "reportedEbitda": 8200010.0,
+          "proposedAdjustments": 650010.0,
+          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "confidence": "High"
         },
         {
           "id": "financial-quality-of-earnings-004",
           "state": "prepared",
-          "period": "FY2025 and LTM Jun-2026 — Priority Queue — Priority Queue",
-          "reportedEbitda": 8200006.0,
-          "proposedAdjustments": 650006.0,
-          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Priority Queue — Priority Queue",
+          "period": "FY2025 and LTM Jun-2026 — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
+          "reportedEbitda": 8200015.0,
+          "proposedAdjustments": 650015.0,
+          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "confidence": "Low"
         },
         {
           "id": "financial-quality-of-earnings-005",
           "state": "prepared",
-          "period": "FY2025 and LTM Jun-2026 — Operations Review — Operations Review",
-          "reportedEbitda": 8200008.0,
-          "proposedAdjustments": 650008.0,
-          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Operations Review — Operations Review",
+          "period": "FY2025 and LTM Jun-2026 — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
+          "reportedEbitda": 8200020.0,
+          "proposedAdjustments": 650020.0,
+          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "confidence": "Medium"
         },
         {
           "id": "financial-quality-of-earnings-006",
           "state": "prepared",
-          "period": "FY2025 and LTM Jun-2026 — Customer Request — Customer Request",
-          "reportedEbitda": 8200010.0,
-          "proposedAdjustments": 650010.0,
-          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Customer Request — Customer Request",
+          "period": "FY2025 and LTM Jun-2026 — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
+          "reportedEbitda": 8200025.0,
+          "proposedAdjustments": 650025.0,
+          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "confidence": "High"
         },
         {
           "id": "financial-quality-of-earnings-007",
           "state": "prepared",
-          "period": "FY2025 and LTM Jun-2026 — Compliance Check — Compliance Check",
-          "reportedEbitda": 8200012.0,
-          "proposedAdjustments": 650012.0,
-          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Compliance Check — Compliance Check",
+          "period": "FY2025 and LTM Jun-2026 — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
+          "reportedEbitda": 8200030.0,
+          "proposedAdjustments": 650030.0,
+          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "confidence": "Low"
         },
         {
           "id": "financial-quality-of-earnings-008",
           "state": "prepared",
-          "period": "FY2025 and LTM Jun-2026 — Service Window — Service Window",
-          "reportedEbitda": 8200014.0,
-          "proposedAdjustments": 650014.0,
-          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Service Window — Service Window",
+          "period": "FY2025 and LTM Jun-2026 — Service Window — Service Window — Service Window — Service Window — Service Window",
+          "reportedEbitda": 8200035.0,
+          "proposedAdjustments": 650035.0,
+          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Service Window — Service Window — Service Window — Service Window — Service Window",
           "confidence": "Medium"
         },
         {
           "id": "financial-quality-of-earnings-009",
           "state": "prepared",
-          "period": "FY2025 and LTM Jun-2026 — Quality Sample — Quality Sample",
-          "reportedEbitda": 8200016.0,
-          "proposedAdjustments": 650016.0,
-          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Quality Sample — Quality Sample",
+          "period": "FY2025 and LTM Jun-2026 — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
+          "reportedEbitda": 8200040.0,
+          "proposedAdjustments": 650040.0,
+          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "confidence": "High"
         },
         {
           "id": "financial-quality-of-earnings-010",
           "state": "prepared",
-          "period": "FY2025 and LTM Jun-2026 — Management Review — Management Review",
-          "reportedEbitda": 8200018.0,
-          "proposedAdjustments": 650018.0,
-          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Management Review — Management Review",
+          "period": "FY2025 and LTM Jun-2026 — Management Review — Management Review — Management Review — Management Review — Management Review",
+          "reportedEbitda": 8200045.0,
+          "proposedAdjustments": 650045.0,
+          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Management Review — Management Review — Management Review — Management Review — Management Review",
           "confidence": "Low"
         },
         {
           "id": "financial-quality-of-earnings-011",
           "state": "prepared",
-          "period": "FY2025 and LTM Jun-2026 — Exception Follow-up — Exception Follow-up",
-          "reportedEbitda": 8200020.0,
-          "proposedAdjustments": 650020.0,
-          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Exception Follow-up — Exception Follow-up",
+          "period": "FY2025 and LTM Jun-2026 — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
+          "reportedEbitda": 8200050.0,
+          "proposedAdjustments": 650050.0,
+          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "confidence": "Medium"
         },
         {
           "id": "financial-quality-of-earnings-012",
           "state": "prepared",
-          "period": "FY2025 and LTM Jun-2026 — Evidence Package — Evidence Package",
-          "reportedEbitda": 8200022.0,
-          "proposedAdjustments": 650022.0,
-          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Evidence Package — Evidence Package",
+          "period": "FY2025 and LTM Jun-2026 — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
+          "reportedEbitda": 8200055.0,
+          "proposedAdjustments": 650055.0,
+          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "confidence": "High"
         },
         {
           "id": "financial-quality-of-earnings-013",
           "state": "prepared",
-          "period": "FY2025 and LTM Jun-2026 — Planning Cycle — Planning Cycle",
-          "reportedEbitda": 8200024.0,
-          "proposedAdjustments": 650024.0,
-          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Planning Cycle — Planning Cycle",
+          "period": "FY2025 and LTM Jun-2026 — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
+          "reportedEbitda": 8200060.0,
+          "proposedAdjustments": 650060.0,
+          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "confidence": "Low"
         },
         {
           "id": "financial-quality-of-earnings-014",
           "state": "prepared",
-          "period": "FY2025 and LTM Jun-2026 — Performance Review — Performance Review",
-          "reportedEbitda": 8200026.0,
-          "proposedAdjustments": 650026.0,
-          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Performance Review — Performance Review",
+          "period": "FY2025 and LTM Jun-2026 — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
+          "reportedEbitda": 8200065.0,
+          "proposedAdjustments": 650065.0,
+          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "confidence": "Medium"
         },
         {
           "id": "financial-quality-of-earnings-015",
           "state": "prepared",
-          "period": "FY2025 and LTM Jun-2026 — Final Verification — Final Verification",
-          "reportedEbitda": 8200028.0,
-          "proposedAdjustments": 650028.0,
-          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Final Verification — Final Verification",
+          "period": "FY2025 and LTM Jun-2026 — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
+          "reportedEbitda": 8200070.0,
+          "proposedAdjustments": 650070.0,
+          "workingCapitalFinding": "Seasonal inventory build requires a normalized peg review. — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "confidence": "High"
         }
       ]
@@ -744,7 +744,7 @@
           "state": "scoping",
           "matterReference": "DUE-DILIGE-0001",
           "riskDomain": "Corporate",
-          "finding": "Two processor agreements require updated data-transfer terms. — North Region — North Region",
+          "finding": "Two processor agreements require updated data-transfer terms. — North Region — North Region — North Region — North Region — North Region",
           "severity": "Low",
           "evidenceReference": "DUE-DILIGE-0001"
         },
@@ -753,7 +753,7 @@
           "state": "scoping",
           "matterReference": "DUE-DILIGE-0002",
           "riskDomain": "Regulatory",
-          "finding": "Two processor agreements require updated data-transfer terms. — Enterprise Account — Enterprise Account",
+          "finding": "Two processor agreements require updated data-transfer terms. — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "severity": "Medium",
           "evidenceReference": "DUE-DILIGE-0002"
         },
@@ -762,7 +762,7 @@
           "state": "scoping",
           "matterReference": "DUE-DILIGE-0003",
           "riskDomain": "Data privacy",
-          "finding": "Two processor agreements require updated data-transfer terms. — Quarterly Cycle — Quarterly Cycle",
+          "finding": "Two processor agreements require updated data-transfer terms. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "severity": "High",
           "evidenceReference": "DUE-DILIGE-0003"
         },
@@ -771,7 +771,7 @@
           "state": "scoping",
           "matterReference": "DUE-DILIGE-0004",
           "riskDomain": "Cybersecurity",
-          "finding": "Two processor agreements require updated data-transfer terms. — Priority Queue — Priority Queue",
+          "finding": "Two processor agreements require updated data-transfer terms. — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "severity": "Critical",
           "evidenceReference": "DUE-DILIGE-0004"
         },
@@ -780,7 +780,7 @@
           "state": "scoping",
           "matterReference": "DUE-DILIGE-0005",
           "riskDomain": "Sanctions",
-          "finding": "Two processor agreements require updated data-transfer terms. — Operations Review — Operations Review",
+          "finding": "Two processor agreements require updated data-transfer terms. — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "severity": "Low",
           "evidenceReference": "DUE-DILIGE-0005"
         },
@@ -789,7 +789,7 @@
           "state": "scoping",
           "matterReference": "DUE-DILIGE-0006",
           "riskDomain": "Commercial",
-          "finding": "Two processor agreements require updated data-transfer terms. — Customer Request — Customer Request",
+          "finding": "Two processor agreements require updated data-transfer terms. — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "severity": "Medium",
           "evidenceReference": "DUE-DILIGE-0006"
         },
@@ -798,7 +798,7 @@
           "state": "scoping",
           "matterReference": "DUE-DILIGE-0007",
           "riskDomain": "Corporate",
-          "finding": "Two processor agreements require updated data-transfer terms. — Compliance Check — Compliance Check",
+          "finding": "Two processor agreements require updated data-transfer terms. — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "severity": "High",
           "evidenceReference": "DUE-DILIGE-0007"
         },
@@ -807,7 +807,7 @@
           "state": "scoping",
           "matterReference": "DUE-DILIGE-0008",
           "riskDomain": "Regulatory",
-          "finding": "Two processor agreements require updated data-transfer terms. — Service Window — Service Window",
+          "finding": "Two processor agreements require updated data-transfer terms. — Service Window — Service Window — Service Window — Service Window — Service Window",
           "severity": "Critical",
           "evidenceReference": "DUE-DILIGE-0008"
         },
@@ -816,7 +816,7 @@
           "state": "scoping",
           "matterReference": "DUE-DILIGE-0009",
           "riskDomain": "Data privacy",
-          "finding": "Two processor agreements require updated data-transfer terms. — Quality Sample — Quality Sample",
+          "finding": "Two processor agreements require updated data-transfer terms. — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "severity": "Low",
           "evidenceReference": "DUE-DILIGE-0009"
         },
@@ -825,7 +825,7 @@
           "state": "scoping",
           "matterReference": "DUE-DILIGE-0010",
           "riskDomain": "Cybersecurity",
-          "finding": "Two processor agreements require updated data-transfer terms. — Management Review — Management Review",
+          "finding": "Two processor agreements require updated data-transfer terms. — Management Review — Management Review — Management Review — Management Review — Management Review",
           "severity": "Medium",
           "evidenceReference": "DUE-DILIGE-0010"
         },
@@ -834,7 +834,7 @@
           "state": "scoping",
           "matterReference": "DUE-DILIGE-0011",
           "riskDomain": "Sanctions",
-          "finding": "Two processor agreements require updated data-transfer terms. — Exception Follow-up — Exception Follow-up",
+          "finding": "Two processor agreements require updated data-transfer terms. — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "severity": "High",
           "evidenceReference": "DUE-DILIGE-0011"
         },
@@ -843,7 +843,7 @@
           "state": "scoping",
           "matterReference": "DUE-DILIGE-0012",
           "riskDomain": "Commercial",
-          "finding": "Two processor agreements require updated data-transfer terms. — Evidence Package — Evidence Package",
+          "finding": "Two processor agreements require updated data-transfer terms. — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "severity": "Critical",
           "evidenceReference": "DUE-DILIGE-0012"
         },
@@ -852,7 +852,7 @@
           "state": "scoping",
           "matterReference": "DUE-DILIGE-0013",
           "riskDomain": "Corporate",
-          "finding": "Two processor agreements require updated data-transfer terms. — Planning Cycle — Planning Cycle",
+          "finding": "Two processor agreements require updated data-transfer terms. — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "severity": "Low",
           "evidenceReference": "DUE-DILIGE-0013"
         },
@@ -861,7 +861,7 @@
           "state": "scoping",
           "matterReference": "DUE-DILIGE-0014",
           "riskDomain": "Regulatory",
-          "finding": "Two processor agreements require updated data-transfer terms. — Performance Review — Performance Review",
+          "finding": "Two processor agreements require updated data-transfer terms. — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "severity": "Medium",
           "evidenceReference": "DUE-DILIGE-0014"
         },
@@ -870,7 +870,7 @@
           "state": "scoping",
           "matterReference": "DUE-DILIGE-0015",
           "riskDomain": "Data privacy",
-          "finding": "Two processor agreements require updated data-transfer terms. — Final Verification — Final Verification",
+          "finding": "Two processor agreements require updated data-transfer terms. — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "severity": "High",
           "evidenceReference": "DUE-DILIGE-0015"
         }
@@ -958,137 +958,137 @@
         {
           "id": "management-and-cultural-fit-001",
           "state": "planned",
-          "team": "Executive and operations leadership — North Region — North Region",
-          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — North Region — North Region",
+          "team": "Executive and operations leadership — North Region — North Region — North Region — North Region — North Region",
+          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — North Region — North Region — North Region — North Region — North Region",
           "keyPersonRisk": "Low",
-          "interviewer": "Demo Operating Partner — North Region — North Region",
-          "notes": "Customer relationships are concentrated with two founders. — North Region — North Region"
+          "interviewer": "Demo Operating Partner — North Region — North Region — North Region — North Region — North Region",
+          "notes": "Customer relationships are concentrated with two founders. — North Region — North Region — North Region — North Region — North Region"
         },
         {
           "id": "management-and-cultural-fit-002",
           "state": "planned",
-          "team": "Executive and operations leadership — Enterprise Account — Enterprise Account",
-          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Enterprise Account — Enterprise Account",
+          "team": "Executive and operations leadership — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
+          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "keyPersonRisk": "Medium",
-          "interviewer": "Demo Operating Partner — Enterprise Account — Enterprise Account",
-          "notes": "Customer relationships are concentrated with two founders. — Enterprise Account — Enterprise Account"
+          "interviewer": "Demo Operating Partner — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
+          "notes": "Customer relationships are concentrated with two founders. — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "management-and-cultural-fit-003",
           "state": "planned",
-          "team": "Executive and operations leadership — Quarterly Cycle — Quarterly Cycle",
-          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Quarterly Cycle — Quarterly Cycle",
+          "team": "Executive and operations leadership — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
+          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "keyPersonRisk": "High",
-          "interviewer": "Demo Operating Partner — Quarterly Cycle — Quarterly Cycle",
-          "notes": "Customer relationships are concentrated with two founders. — Quarterly Cycle — Quarterly Cycle"
+          "interviewer": "Demo Operating Partner — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
+          "notes": "Customer relationships are concentrated with two founders. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "management-and-cultural-fit-004",
           "state": "planned",
-          "team": "Executive and operations leadership — Priority Queue — Priority Queue",
-          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Priority Queue — Priority Queue",
+          "team": "Executive and operations leadership — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
+          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "keyPersonRisk": "Low",
-          "interviewer": "Demo Operating Partner — Priority Queue — Priority Queue",
-          "notes": "Customer relationships are concentrated with two founders. — Priority Queue — Priority Queue"
+          "interviewer": "Demo Operating Partner — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
+          "notes": "Customer relationships are concentrated with two founders. — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "management-and-cultural-fit-005",
           "state": "planned",
-          "team": "Executive and operations leadership — Operations Review — Operations Review",
-          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Operations Review — Operations Review",
+          "team": "Executive and operations leadership — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
+          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "keyPersonRisk": "Medium",
-          "interviewer": "Demo Operating Partner — Operations Review — Operations Review",
-          "notes": "Customer relationships are concentrated with two founders. — Operations Review — Operations Review"
+          "interviewer": "Demo Operating Partner — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
+          "notes": "Customer relationships are concentrated with two founders. — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "management-and-cultural-fit-006",
           "state": "planned",
-          "team": "Executive and operations leadership — Customer Request — Customer Request",
-          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Customer Request — Customer Request",
+          "team": "Executive and operations leadership — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
+          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "keyPersonRisk": "High",
-          "interviewer": "Demo Operating Partner — Customer Request — Customer Request",
-          "notes": "Customer relationships are concentrated with two founders. — Customer Request — Customer Request"
+          "interviewer": "Demo Operating Partner — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
+          "notes": "Customer relationships are concentrated with two founders. — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "management-and-cultural-fit-007",
           "state": "planned",
-          "team": "Executive and operations leadership — Compliance Check — Compliance Check",
-          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Compliance Check — Compliance Check",
+          "team": "Executive and operations leadership — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
+          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "keyPersonRisk": "Low",
-          "interviewer": "Demo Operating Partner — Compliance Check — Compliance Check",
-          "notes": "Customer relationships are concentrated with two founders. — Compliance Check — Compliance Check"
+          "interviewer": "Demo Operating Partner — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
+          "notes": "Customer relationships are concentrated with two founders. — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "management-and-cultural-fit-008",
           "state": "planned",
-          "team": "Executive and operations leadership — Service Window — Service Window",
-          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Service Window — Service Window",
+          "team": "Executive and operations leadership — Service Window — Service Window — Service Window — Service Window — Service Window",
+          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Service Window — Service Window — Service Window — Service Window — Service Window",
           "keyPersonRisk": "Medium",
-          "interviewer": "Demo Operating Partner — Service Window — Service Window",
-          "notes": "Customer relationships are concentrated with two founders. — Service Window — Service Window"
+          "interviewer": "Demo Operating Partner — Service Window — Service Window — Service Window — Service Window — Service Window",
+          "notes": "Customer relationships are concentrated with two founders. — Service Window — Service Window — Service Window — Service Window — Service Window"
         },
         {
           "id": "management-and-cultural-fit-009",
           "state": "planned",
-          "team": "Executive and operations leadership — Quality Sample — Quality Sample",
-          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Quality Sample — Quality Sample",
+          "team": "Executive and operations leadership — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
+          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "keyPersonRisk": "High",
-          "interviewer": "Demo Operating Partner — Quality Sample — Quality Sample",
-          "notes": "Customer relationships are concentrated with two founders. — Quality Sample — Quality Sample"
+          "interviewer": "Demo Operating Partner — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
+          "notes": "Customer relationships are concentrated with two founders. — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "management-and-cultural-fit-010",
           "state": "planned",
-          "team": "Executive and operations leadership — Management Review — Management Review",
-          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Management Review — Management Review",
+          "team": "Executive and operations leadership — Management Review — Management Review — Management Review — Management Review — Management Review",
+          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Management Review — Management Review — Management Review — Management Review — Management Review",
           "keyPersonRisk": "Low",
-          "interviewer": "Demo Operating Partner — Management Review — Management Review",
-          "notes": "Customer relationships are concentrated with two founders. — Management Review — Management Review"
+          "interviewer": "Demo Operating Partner — Management Review — Management Review — Management Review — Management Review — Management Review",
+          "notes": "Customer relationships are concentrated with two founders. — Management Review — Management Review — Management Review — Management Review — Management Review"
         },
         {
           "id": "management-and-cultural-fit-011",
           "state": "planned",
-          "team": "Executive and operations leadership — Exception Follow-up — Exception Follow-up",
-          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Exception Follow-up — Exception Follow-up",
+          "team": "Executive and operations leadership — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
+          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "keyPersonRisk": "Medium",
-          "interviewer": "Demo Operating Partner — Exception Follow-up — Exception Follow-up",
-          "notes": "Customer relationships are concentrated with two founders. — Exception Follow-up — Exception Follow-up"
+          "interviewer": "Demo Operating Partner — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
+          "notes": "Customer relationships are concentrated with two founders. — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "management-and-cultural-fit-012",
           "state": "planned",
-          "team": "Executive and operations leadership — Evidence Package — Evidence Package",
-          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Evidence Package — Evidence Package",
+          "team": "Executive and operations leadership — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
+          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "keyPersonRisk": "High",
-          "interviewer": "Demo Operating Partner — Evidence Package — Evidence Package",
-          "notes": "Customer relationships are concentrated with two founders. — Evidence Package — Evidence Package"
+          "interviewer": "Demo Operating Partner — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
+          "notes": "Customer relationships are concentrated with two founders. — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "management-and-cultural-fit-013",
           "state": "planned",
-          "team": "Executive and operations leadership — Planning Cycle — Planning Cycle",
-          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Planning Cycle — Planning Cycle",
+          "team": "Executive and operations leadership — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
+          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "keyPersonRisk": "Low",
-          "interviewer": "Demo Operating Partner — Planning Cycle — Planning Cycle",
-          "notes": "Customer relationships are concentrated with two founders. — Planning Cycle — Planning Cycle"
+          "interviewer": "Demo Operating Partner — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
+          "notes": "Customer relationships are concentrated with two founders. — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "management-and-cultural-fit-014",
           "state": "planned",
-          "team": "Executive and operations leadership — Performance Review — Performance Review",
-          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Performance Review — Performance Review",
+          "team": "Executive and operations leadership — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
+          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "keyPersonRisk": "Medium",
-          "interviewer": "Demo Operating Partner — Performance Review — Performance Review",
-          "notes": "Customer relationships are concentrated with two founders. — Performance Review — Performance Review"
+          "interviewer": "Demo Operating Partner — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
+          "notes": "Customer relationships are concentrated with two founders. — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "management-and-cultural-fit-015",
           "state": "planned",
-          "team": "Executive and operations leadership — Final Verification — Final Verification",
-          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Final Verification — Final Verification",
+          "team": "Executive and operations leadership — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
+          "assessmentAreas": "Leadership depth; incentives; decision rights; retention risk — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "keyPersonRisk": "High",
-          "interviewer": "Demo Operating Partner — Final Verification — Final Verification",
-          "notes": "Customer relationships are concentrated with two founders. — Final Verification — Final Verification"
+          "interviewer": "Demo Operating Partner — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
+          "notes": "Customer relationships are concentrated with two founders. — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification"
         }
       ]
     },
@@ -1189,40 +1189,13 @@
           "id": "valuation-and-synergy-002",
           "state": "modeled",
           "valuationMethod": "Discounted cash flow",
-          "enterpriseValue": 96000002.0,
-          "baseSynergies": 4500002.0,
-          "oneTimeCosts": 7200002.0,
+          "enterpriseValue": 96000005.0,
+          "baseSynergies": 4500005.0,
+          "oneTimeCosts": 7200005.0,
           "synergyRisk": "Medium"
         },
         {
           "id": "valuation-and-synergy-003",
-          "state": "modeled",
-          "valuationMethod": "Revenue multiple",
-          "enterpriseValue": 96000004.0,
-          "baseSynergies": 4500004.0,
-          "oneTimeCosts": 7200004.0,
-          "synergyRisk": "High"
-        },
-        {
-          "id": "valuation-and-synergy-004",
-          "state": "modeled",
-          "valuationMethod": "EBITDA multiple",
-          "enterpriseValue": 96000006.0,
-          "baseSynergies": 4500006.0,
-          "oneTimeCosts": 7200006.0,
-          "synergyRisk": "Low"
-        },
-        {
-          "id": "valuation-and-synergy-005",
-          "state": "modeled",
-          "valuationMethod": "Discounted cash flow",
-          "enterpriseValue": 96000008.0,
-          "baseSynergies": 4500008.0,
-          "oneTimeCosts": 7200008.0,
-          "synergyRisk": "Medium"
-        },
-        {
-          "id": "valuation-and-synergy-006",
           "state": "modeled",
           "valuationMethod": "Revenue multiple",
           "enterpriseValue": 96000010.0,
@@ -1231,43 +1204,16 @@
           "synergyRisk": "High"
         },
         {
-          "id": "valuation-and-synergy-007",
+          "id": "valuation-and-synergy-004",
           "state": "modeled",
           "valuationMethod": "EBITDA multiple",
-          "enterpriseValue": 96000012.0,
-          "baseSynergies": 4500012.0,
-          "oneTimeCosts": 7200012.0,
+          "enterpriseValue": 96000015.0,
+          "baseSynergies": 4500015.0,
+          "oneTimeCosts": 7200015.0,
           "synergyRisk": "Low"
         },
         {
-          "id": "valuation-and-synergy-008",
-          "state": "modeled",
-          "valuationMethod": "Discounted cash flow",
-          "enterpriseValue": 96000014.0,
-          "baseSynergies": 4500014.0,
-          "oneTimeCosts": 7200014.0,
-          "synergyRisk": "Medium"
-        },
-        {
-          "id": "valuation-and-synergy-009",
-          "state": "modeled",
-          "valuationMethod": "Revenue multiple",
-          "enterpriseValue": 96000016.0,
-          "baseSynergies": 4500016.0,
-          "oneTimeCosts": 7200016.0,
-          "synergyRisk": "High"
-        },
-        {
-          "id": "valuation-and-synergy-010",
-          "state": "modeled",
-          "valuationMethod": "EBITDA multiple",
-          "enterpriseValue": 96000018.0,
-          "baseSynergies": 4500018.0,
-          "oneTimeCosts": 7200018.0,
-          "synergyRisk": "Low"
-        },
-        {
-          "id": "valuation-and-synergy-011",
+          "id": "valuation-and-synergy-005",
           "state": "modeled",
           "valuationMethod": "Discounted cash flow",
           "enterpriseValue": 96000020.0,
@@ -1276,39 +1222,93 @@
           "synergyRisk": "Medium"
         },
         {
+          "id": "valuation-and-synergy-006",
+          "state": "modeled",
+          "valuationMethod": "Revenue multiple",
+          "enterpriseValue": 96000025.0,
+          "baseSynergies": 4500025.0,
+          "oneTimeCosts": 7200025.0,
+          "synergyRisk": "High"
+        },
+        {
+          "id": "valuation-and-synergy-007",
+          "state": "modeled",
+          "valuationMethod": "EBITDA multiple",
+          "enterpriseValue": 96000030.0,
+          "baseSynergies": 4500030.0,
+          "oneTimeCosts": 7200030.0,
+          "synergyRisk": "Low"
+        },
+        {
+          "id": "valuation-and-synergy-008",
+          "state": "modeled",
+          "valuationMethod": "Discounted cash flow",
+          "enterpriseValue": 96000035.0,
+          "baseSynergies": 4500035.0,
+          "oneTimeCosts": 7200035.0,
+          "synergyRisk": "Medium"
+        },
+        {
+          "id": "valuation-and-synergy-009",
+          "state": "modeled",
+          "valuationMethod": "Revenue multiple",
+          "enterpriseValue": 96000040.0,
+          "baseSynergies": 4500040.0,
+          "oneTimeCosts": 7200040.0,
+          "synergyRisk": "High"
+        },
+        {
+          "id": "valuation-and-synergy-010",
+          "state": "modeled",
+          "valuationMethod": "EBITDA multiple",
+          "enterpriseValue": 96000045.0,
+          "baseSynergies": 4500045.0,
+          "oneTimeCosts": 7200045.0,
+          "synergyRisk": "Low"
+        },
+        {
+          "id": "valuation-and-synergy-011",
+          "state": "modeled",
+          "valuationMethod": "Discounted cash flow",
+          "enterpriseValue": 96000050.0,
+          "baseSynergies": 4500050.0,
+          "oneTimeCosts": 7200050.0,
+          "synergyRisk": "Medium"
+        },
+        {
           "id": "valuation-and-synergy-012",
           "state": "modeled",
           "valuationMethod": "Revenue multiple",
-          "enterpriseValue": 96000022.0,
-          "baseSynergies": 4500022.0,
-          "oneTimeCosts": 7200022.0,
+          "enterpriseValue": 96000055.0,
+          "baseSynergies": 4500055.0,
+          "oneTimeCosts": 7200055.0,
           "synergyRisk": "High"
         },
         {
           "id": "valuation-and-synergy-013",
           "state": "modeled",
           "valuationMethod": "EBITDA multiple",
-          "enterpriseValue": 96000024.0,
-          "baseSynergies": 4500024.0,
-          "oneTimeCosts": 7200024.0,
+          "enterpriseValue": 96000060.0,
+          "baseSynergies": 4500060.0,
+          "oneTimeCosts": 7200060.0,
           "synergyRisk": "Low"
         },
         {
           "id": "valuation-and-synergy-014",
           "state": "modeled",
           "valuationMethod": "Discounted cash flow",
-          "enterpriseValue": 96000026.0,
-          "baseSynergies": 4500026.0,
-          "oneTimeCosts": 7200026.0,
+          "enterpriseValue": 96000065.0,
+          "baseSynergies": 4500065.0,
+          "oneTimeCosts": 7200065.0,
           "synergyRisk": "Medium"
         },
         {
           "id": "valuation-and-synergy-015",
           "state": "modeled",
           "valuationMethod": "Revenue multiple",
-          "enterpriseValue": 96000028.0,
-          "baseSynergies": 4500028.0,
-          "oneTimeCosts": 7200028.0,
+          "enterpriseValue": 96000070.0,
+          "baseSynergies": 4500070.0,
+          "oneTimeCosts": 7200070.0,
           "synergyRisk": "High"
         }
       ]
@@ -1398,7 +1398,7 @@
           "state": "assembling",
           "matterReference": "DUE-DILIGE-0001",
           "recommendation": "Proceed",
-          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — North Region — North Region",
+          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — North Region — North Region — North Region — North Region — North Region",
           "decisionOwner": "Avery Morgan",
           "decisionDate": "2026-09-15"
         },
@@ -1407,126 +1407,126 @@
           "state": "assembling",
           "matterReference": "DUE-DILIGE-0002",
           "recommendation": "Proceed with conditions",
-          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Enterprise Account — Enterprise Account",
+          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "decisionOwner": "Jordan Lee",
-          "decisionDate": "2026-09-17"
+          "decisionDate": "2026-09-20"
         },
         {
           "id": "diligence-decision-gate-003",
           "state": "assembling",
           "matterReference": "DUE-DILIGE-0003",
           "recommendation": "Renegotiate",
-          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Quarterly Cycle — Quarterly Cycle",
+          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "decisionOwner": "Taylor Brooks",
-          "decisionDate": "2026-09-19"
+          "decisionDate": "2026-09-25"
         },
         {
           "id": "diligence-decision-gate-004",
           "state": "assembling",
           "matterReference": "DUE-DILIGE-0004",
           "recommendation": "Stop",
-          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Priority Queue — Priority Queue",
+          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "decisionOwner": "Morgan Chen",
-          "decisionDate": "2026-09-21"
+          "decisionDate": "2026-09-30"
         },
         {
           "id": "diligence-decision-gate-005",
           "state": "assembling",
           "matterReference": "DUE-DILIGE-0005",
           "recommendation": "Proceed",
-          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Operations Review — Operations Review",
+          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "decisionOwner": "Riley Patel",
-          "decisionDate": "2026-09-23"
+          "decisionDate": "2026-10-05"
         },
         {
           "id": "diligence-decision-gate-006",
           "state": "assembling",
           "matterReference": "DUE-DILIGE-0006",
           "recommendation": "Proceed with conditions",
-          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Customer Request — Customer Request",
+          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "decisionOwner": "Casey Nguyen",
-          "decisionDate": "2026-09-25"
+          "decisionDate": "2026-10-10"
         },
         {
           "id": "diligence-decision-gate-007",
           "state": "assembling",
           "matterReference": "DUE-DILIGE-0007",
           "recommendation": "Renegotiate",
-          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Compliance Check — Compliance Check",
+          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "decisionOwner": "Cameron Diaz",
-          "decisionDate": "2026-09-27"
+          "decisionDate": "2026-10-15"
         },
         {
           "id": "diligence-decision-gate-008",
           "state": "assembling",
           "matterReference": "DUE-DILIGE-0008",
           "recommendation": "Stop",
-          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Service Window — Service Window",
+          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Service Window — Service Window — Service Window — Service Window — Service Window",
           "decisionOwner": "Drew Wilson",
-          "decisionDate": "2026-09-29"
+          "decisionDate": "2026-10-20"
         },
         {
           "id": "diligence-decision-gate-009",
           "state": "assembling",
           "matterReference": "DUE-DILIGE-0009",
           "recommendation": "Proceed",
-          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Quality Sample — Quality Sample",
+          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "decisionOwner": "Emerson Clark",
-          "decisionDate": "2026-10-01"
+          "decisionDate": "2026-10-25"
         },
         {
           "id": "diligence-decision-gate-010",
           "state": "assembling",
           "matterReference": "DUE-DILIGE-0010",
           "recommendation": "Proceed with conditions",
-          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Management Review — Management Review",
+          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Management Review — Management Review — Management Review — Management Review — Management Review",
           "decisionOwner": "Hayden Kim",
-          "decisionDate": "2026-10-03"
+          "decisionDate": "2026-10-30"
         },
         {
           "id": "diligence-decision-gate-011",
           "state": "assembling",
           "matterReference": "DUE-DILIGE-0011",
           "recommendation": "Renegotiate",
-          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Exception Follow-up — Exception Follow-up",
+          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "decisionOwner": "Jamie Rivera",
-          "decisionDate": "2026-10-05"
+          "decisionDate": "2026-11-04"
         },
         {
           "id": "diligence-decision-gate-012",
           "state": "assembling",
           "matterReference": "DUE-DILIGE-0012",
           "recommendation": "Stop",
-          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Evidence Package — Evidence Package",
+          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "decisionOwner": "Kai Thompson",
-          "decisionDate": "2026-10-07"
+          "decisionDate": "2026-11-09"
         },
         {
           "id": "diligence-decision-gate-013",
           "state": "assembling",
           "matterReference": "DUE-DILIGE-0013",
           "recommendation": "Proceed",
-          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Planning Cycle — Planning Cycle",
+          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "decisionOwner": "Logan Shah",
-          "decisionDate": "2026-10-09"
+          "decisionDate": "2026-11-14"
         },
         {
           "id": "diligence-decision-gate-014",
           "state": "assembling",
           "matterReference": "DUE-DILIGE-0014",
           "recommendation": "Proceed with conditions",
-          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Performance Review — Performance Review",
+          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "decisionOwner": "Parker Evans",
-          "decisionDate": "2026-10-11"
+          "decisionDate": "2026-11-19"
         },
         {
           "id": "diligence-decision-gate-015",
           "state": "assembling",
           "matterReference": "DUE-DILIGE-0015",
           "recommendation": "Renegotiate",
-          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Final Verification — Final Verification",
+          "criticalConditions": "Resolve privacy terms and confirm working-capital peg before signing. — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "decisionOwner": "Quinn Murphy",
-          "decisionDate": "2026-10-13"
+          "decisionDate": "2026-11-24"
         }
       ]
     },
@@ -1625,8 +1625,8 @@
           "id": "reporting-and-integration-readiness-001",
           "state": "draft",
           "reportType": "Executive diligence summary",
-          "audience": "Investment committee — North Region — North Region",
-          "provider": "Local fixture adapter — North Region — North Region",
+          "audience": "Investment committee — North Region — North Region — North Region — North Region — North Region",
+          "provider": "Local fixture adapter — North Region — North Region — North Region — North Region — North Region",
           "environment": "Local fixture",
           "connectionStatus": "Not configured"
         },
@@ -1634,8 +1634,8 @@
           "id": "reporting-and-integration-readiness-002",
           "state": "draft",
           "reportType": "Risk register",
-          "audience": "Investment committee — Enterprise Account — Enterprise Account",
-          "provider": "Local fixture adapter — Enterprise Account — Enterprise Account",
+          "audience": "Investment committee — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
+          "provider": "Local fixture adapter — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "environment": "Sandbox configuration",
           "connectionStatus": "Needs credentials"
         },
@@ -1643,8 +1643,8 @@
           "id": "reporting-and-integration-readiness-003",
           "state": "draft",
           "reportType": "Closing conditions",
-          "audience": "Investment committee — Quarterly Cycle — Quarterly Cycle",
-          "provider": "Local fixture adapter — Quarterly Cycle — Quarterly Cycle",
+          "audience": "Investment committee — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
+          "provider": "Local fixture adapter — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "environment": "Production configuration",
           "connectionStatus": "Test ready"
         },
@@ -1652,8 +1652,8 @@
           "id": "reporting-and-integration-readiness-004",
           "state": "draft",
           "reportType": "Integration handoff",
-          "audience": "Investment committee — Priority Queue — Priority Queue",
-          "provider": "Local fixture adapter — Priority Queue — Priority Queue",
+          "audience": "Investment committee — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
+          "provider": "Local fixture adapter — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "environment": "Local fixture",
           "connectionStatus": "Blocked"
         },
@@ -1661,8 +1661,8 @@
           "id": "reporting-and-integration-readiness-005",
           "state": "draft",
           "reportType": "Executive diligence summary",
-          "audience": "Investment committee — Operations Review — Operations Review",
-          "provider": "Local fixture adapter — Operations Review — Operations Review",
+          "audience": "Investment committee — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
+          "provider": "Local fixture adapter — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "environment": "Sandbox configuration",
           "connectionStatus": "Not configured"
         },
@@ -1670,8 +1670,8 @@
           "id": "reporting-and-integration-readiness-006",
           "state": "draft",
           "reportType": "Risk register",
-          "audience": "Investment committee — Customer Request — Customer Request",
-          "provider": "Local fixture adapter — Customer Request — Customer Request",
+          "audience": "Investment committee — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
+          "provider": "Local fixture adapter — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "environment": "Production configuration",
           "connectionStatus": "Needs credentials"
         },
@@ -1679,8 +1679,8 @@
           "id": "reporting-and-integration-readiness-007",
           "state": "draft",
           "reportType": "Closing conditions",
-          "audience": "Investment committee — Compliance Check — Compliance Check",
-          "provider": "Local fixture adapter — Compliance Check — Compliance Check",
+          "audience": "Investment committee — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
+          "provider": "Local fixture adapter — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "environment": "Local fixture",
           "connectionStatus": "Test ready"
         },
@@ -1688,8 +1688,8 @@
           "id": "reporting-and-integration-readiness-008",
           "state": "draft",
           "reportType": "Integration handoff",
-          "audience": "Investment committee — Service Window — Service Window",
-          "provider": "Local fixture adapter — Service Window — Service Window",
+          "audience": "Investment committee — Service Window — Service Window — Service Window — Service Window — Service Window",
+          "provider": "Local fixture adapter — Service Window — Service Window — Service Window — Service Window — Service Window",
           "environment": "Sandbox configuration",
           "connectionStatus": "Blocked"
         },
@@ -1697,8 +1697,8 @@
           "id": "reporting-and-integration-readiness-009",
           "state": "draft",
           "reportType": "Executive diligence summary",
-          "audience": "Investment committee — Quality Sample — Quality Sample",
-          "provider": "Local fixture adapter — Quality Sample — Quality Sample",
+          "audience": "Investment committee — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
+          "provider": "Local fixture adapter — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "environment": "Production configuration",
           "connectionStatus": "Not configured"
         },
@@ -1706,8 +1706,8 @@
           "id": "reporting-and-integration-readiness-010",
           "state": "draft",
           "reportType": "Risk register",
-          "audience": "Investment committee — Management Review — Management Review",
-          "provider": "Local fixture adapter — Management Review — Management Review",
+          "audience": "Investment committee — Management Review — Management Review — Management Review — Management Review — Management Review",
+          "provider": "Local fixture adapter — Management Review — Management Review — Management Review — Management Review — Management Review",
           "environment": "Local fixture",
           "connectionStatus": "Needs credentials"
         },
@@ -1715,8 +1715,8 @@
           "id": "reporting-and-integration-readiness-011",
           "state": "draft",
           "reportType": "Closing conditions",
-          "audience": "Investment committee — Exception Follow-up — Exception Follow-up",
-          "provider": "Local fixture adapter — Exception Follow-up — Exception Follow-up",
+          "audience": "Investment committee — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
+          "provider": "Local fixture adapter — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "environment": "Sandbox configuration",
           "connectionStatus": "Test ready"
         },
@@ -1724,8 +1724,8 @@
           "id": "reporting-and-integration-readiness-012",
           "state": "draft",
           "reportType": "Integration handoff",
-          "audience": "Investment committee — Evidence Package — Evidence Package",
-          "provider": "Local fixture adapter — Evidence Package — Evidence Package",
+          "audience": "Investment committee — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
+          "provider": "Local fixture adapter — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "environment": "Production configuration",
           "connectionStatus": "Blocked"
         },
@@ -1733,8 +1733,8 @@
           "id": "reporting-and-integration-readiness-013",
           "state": "draft",
           "reportType": "Executive diligence summary",
-          "audience": "Investment committee — Planning Cycle — Planning Cycle",
-          "provider": "Local fixture adapter — Planning Cycle — Planning Cycle",
+          "audience": "Investment committee — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
+          "provider": "Local fixture adapter — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "environment": "Local fixture",
           "connectionStatus": "Not configured"
         },
@@ -1742,8 +1742,8 @@
           "id": "reporting-and-integration-readiness-014",
           "state": "draft",
           "reportType": "Risk register",
-          "audience": "Investment committee — Performance Review — Performance Review",
-          "provider": "Local fixture adapter — Performance Review — Performance Review",
+          "audience": "Investment committee — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
+          "provider": "Local fixture adapter — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "environment": "Sandbox configuration",
           "connectionStatus": "Needs credentials"
         },
@@ -1751,8 +1751,8 @@
           "id": "reporting-and-integration-readiness-015",
           "state": "draft",
           "reportType": "Closing conditions",
-          "audience": "Investment committee — Final Verification — Final Verification",
-          "provider": "Local fixture adapter — Final Verification — Final Verification",
+          "audience": "Investment committee — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
+          "provider": "Local fixture adapter — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "environment": "Production configuration",
           "connectionStatus": "Test ready"
         }

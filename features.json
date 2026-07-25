@@ -79,11 +79,42 @@
   {
     "name": "AI Anti Trust Risk",
     "canonicalKey": "ai anti risk trust",
-    "aliases": [
-      "AI Anti Trust Risk Page"
-    ],
+    "aliases": [],
     "kinds": [
-      "navigation",
+      "ai-page",
+      "navigation"
+    ],
+    "routes": [
+      "/ai/anti-trust-risk"
+    ],
+    "sourceProjects": [
+      "AIMandADealRoom"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIAntiTrustRiskPage.js",
+        "route": "/ai/anti-trust-risk",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/components/Sidebar.js:64",
+        "route": "",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
+    "name": "AI Anti Trust Risk Page",
+    "canonicalKey": "ai anti risk trust",
+    "aliases": [],
+    "kinds": [
       "page"
     ],
     "routes": [
@@ -96,13 +127,6 @@
       "legal-compliance-risk/due-diligence-assistant"
     ],
     "evidence": [
-      {
-        "kind": "navigation",
-        "sourceProject": "AIMandADealRoom",
-        "path": "frontend/src/components/Sidebar.js:64",
-        "route": "",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
       {
         "kind": "page",
         "sourceProject": "AIMandADealRoom",
@@ -132,6 +156,32 @@
         "sourceProject": "AIMandADealRoom",
         "path": "frontend/src/components/Sidebar.js:76",
         "route": "",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
+    "name": "AI Closing Checklist Generator",
+    "canonicalKey": "ai checklist closing generator",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/closing-checklist-gen"
+    ],
+    "sourceProjects": [
+      "AIMandADealRoom"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIClosingChecklistPage.js",
+        "route": "/ai/closing-checklist-gen",
         "originApp": "legal-compliance-risk/due-diligence-assistant"
       }
     ]
@@ -167,9 +217,12 @@
     "canonicalKey": "ai comp finder transaction",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "navigation"
     ],
-    "routes": [],
+    "routes": [
+      "/ai/comp-transaction-finder"
+    ],
     "sourceProjects": [
       "AIMandADealRoom"
     ],
@@ -177,6 +230,13 @@
       "legal-compliance-risk/due-diligence-assistant"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AICompTransactionPage.js",
+        "route": "/ai/comp-transaction-finder",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
       {
         "kind": "navigation",
         "sourceProject": "AIMandADealRoom",
@@ -255,11 +315,42 @@
   {
     "name": "AI Dcf Copilot",
     "canonicalKey": "ai copilot dcf",
-    "aliases": [
-      "AI Dcf Copilot Page"
-    ],
+    "aliases": [],
     "kinds": [
-      "navigation",
+      "ai-page",
+      "navigation"
+    ],
+    "routes": [
+      "/ai/dcf-copilot"
+    ],
+    "sourceProjects": [
+      "AIMandADealRoom"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIDcfCopilotPage.js",
+        "route": "/ai/dcf-copilot",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/components/Sidebar.js:67",
+        "route": "",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
+    "name": "AI Dcf Copilot Page",
+    "canonicalKey": "ai copilot dcf",
+    "aliases": [],
+    "kinds": [
       "page"
     ],
     "routes": [
@@ -272,13 +363,6 @@
       "legal-compliance-risk/due-diligence-assistant"
     ],
     "evidence": [
-      {
-        "kind": "navigation",
-        "sourceProject": "AIMandADealRoom",
-        "path": "frontend/src/components/Sidebar.js:67",
-        "route": "",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
       {
         "kind": "page",
         "sourceProject": "AIMandADealRoom",
@@ -317,9 +401,12 @@
     "canonicalKey": "ai deal generator summary",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "navigation"
     ],
-    "routes": [],
+    "routes": [
+      "/ai/deal-summary-generator"
+    ],
     "sourceProjects": [
       "AIMandADealRoom"
     ],
@@ -327,6 +414,13 @@
       "legal-compliance-risk/due-diligence-assistant"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIDealSummaryPage.js",
+        "route": "/ai/deal-summary-generator",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
       {
         "kind": "navigation",
         "sourceProject": "AIMandADealRoom",
@@ -363,13 +457,70 @@
     ]
   },
   {
+    "name": "AI Deal Tools",
+    "canonicalKey": "ai deal",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai-tools"
+    ],
+    "sourceProjects": [
+      "AIDueDiligenceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "frontend/src/pages/AITools.js:1",
+        "route": "/ai-tools",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
     "name": "AI Document Classifier",
     "canonicalKey": "ai classifier document",
-    "aliases": [
-      "AI Document Classifier Page"
-    ],
+    "aliases": [],
     "kinds": [
-      "navigation",
+      "ai-page",
+      "navigation"
+    ],
+    "routes": [
+      "/ai/document-classifier"
+    ],
+    "sourceProjects": [
+      "AIMandADealRoom"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIDocumentClassifierPage.js",
+        "route": "/ai/document-classifier",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/components/Sidebar.js:81",
+        "route": "",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
+    "name": "AI Document Classifier Page",
+    "canonicalKey": "ai classifier document",
+    "aliases": [],
+    "kinds": [
       "page"
     ],
     "routes": [
@@ -383,17 +534,36 @@
     ],
     "evidence": [
       {
-        "kind": "navigation",
-        "sourceProject": "AIMandADealRoom",
-        "path": "frontend/src/components/Sidebar.js:81",
-        "route": "",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
-      {
         "kind": "page",
         "sourceProject": "AIMandADealRoom",
         "path": "frontend/src/pages/AIDocumentClassifierPage.js",
         "route": "/AIDocumentClassifierPage",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
+    "name": "AI Due Diligence Prioritize",
+    "canonicalKey": "ai diligence due prioritize",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/due-diligence-prioritize"
+    ],
+    "sourceProjects": [
+      "AIMandADealRoom"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIDueDiligencePrioritizePage.js",
+        "route": "/ai/due-diligence-prioritize",
         "originApp": "legal-compliance-risk/due-diligence-assistant"
       }
     ]
@@ -427,11 +597,42 @@
   {
     "name": "AI Escrow Calculator",
     "canonicalKey": "ai calculator escrow",
-    "aliases": [
-      "AI Escrow Calculator Page"
-    ],
+    "aliases": [],
     "kinds": [
-      "navigation",
+      "ai-page",
+      "navigation"
+    ],
+    "routes": [
+      "/ai/escrow-calculator"
+    ],
+    "sourceProjects": [
+      "AIMandADealRoom"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIEscrowCalculatorPage.js",
+        "route": "/ai/escrow-calculator",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/components/Sidebar.js:63",
+        "route": "",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
+    "name": "AI Escrow Calculator Page",
+    "canonicalKey": "ai calculator escrow",
+    "aliases": [],
+    "kinds": [
       "page"
     ],
     "routes": [
@@ -445,13 +646,6 @@
     ],
     "evidence": [
       {
-        "kind": "navigation",
-        "sourceProject": "AIMandADealRoom",
-        "path": "frontend/src/components/Sidebar.js:63",
-        "route": "",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
-      {
         "kind": "page",
         "sourceProject": "AIMandADealRoom",
         "path": "frontend/src/pages/AIEscrowCalculatorPage.js",
@@ -461,13 +655,78 @@
     ]
   },
   {
+    "name": "AI Executive Brief",
+    "canonicalKey": "ai brief executive",
+    "aliases": [],
+    "kinds": [
+      "ai-page",
+      "navigation"
+    ],
+    "routes": [
+      "/ai/executive-brief"
+    ],
+    "sourceProjects": [
+      "AIMandADealRoom"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIExecutiveBriefPage.js",
+        "route": "/ai/executive-brief",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/components/Sidebar.js:78",
+        "route": "",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
     "name": "AI Financial Model Sanity",
     "canonicalKey": "ai financial model sanity",
-    "aliases": [
-      "AI Financial Model Sanity Page"
-    ],
+    "aliases": [],
     "kinds": [
-      "navigation",
+      "ai-page",
+      "navigation"
+    ],
+    "routes": [
+      "/ai/financial-model-sanity"
+    ],
+    "sourceProjects": [
+      "AIMandADealRoom"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIFinancialModelSanityPage.js",
+        "route": "/ai/financial-model-sanity",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/components/Sidebar.js:61",
+        "route": "",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
+    "name": "AI Financial Model Sanity Page",
+    "canonicalKey": "ai financial model sanity",
+    "aliases": [],
+    "kinds": [
       "page"
     ],
     "routes": [
@@ -480,13 +739,6 @@
       "legal-compliance-risk/due-diligence-assistant"
     ],
     "evidence": [
-      {
-        "kind": "navigation",
-        "sourceProject": "AIMandADealRoom",
-        "path": "frontend/src/components/Sidebar.js:61",
-        "route": "",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
       {
         "kind": "page",
         "sourceProject": "AIMandADealRoom",
@@ -541,9 +793,12 @@
     "canonicalKey": "ai draft integration plan",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "navigation"
     ],
-    "routes": [],
+    "routes": [
+      "/ai/integration-plan-draft"
+    ],
     "sourceProjects": [
       "AIMandADealRoom"
     ],
@@ -551,6 +806,13 @@
       "legal-compliance-risk/due-diligence-assistant"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIIntegrationPlanPage.js",
+        "route": "/ai/integration-plan-draft",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
       {
         "kind": "navigation",
         "sourceProject": "AIMandADealRoom",
@@ -589,11 +851,42 @@
   {
     "name": "AI Nda Matcher",
     "canonicalKey": "ai matcher nda",
-    "aliases": [
-      "AI Nda Matcher Page"
-    ],
+    "aliases": [],
     "kinds": [
-      "navigation",
+      "ai-page",
+      "navigation"
+    ],
+    "routes": [
+      "/ai/nda-matcher"
+    ],
+    "sourceProjects": [
+      "AIMandADealRoom"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AINdaMatcherPage.js",
+        "route": "/ai/nda-matcher",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/components/Sidebar.js:85",
+        "route": "",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
+    "name": "AI Nda Matcher Page",
+    "canonicalKey": "ai matcher nda",
+    "aliases": [],
+    "kinds": [
       "page"
     ],
     "routes": [
@@ -607,13 +900,6 @@
     ],
     "evidence": [
       {
-        "kind": "navigation",
-        "sourceProject": "AIMandADealRoom",
-        "path": "frontend/src/components/Sidebar.js:85",
-        "route": "",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
-      {
         "kind": "page",
         "sourceProject": "AIMandADealRoom",
         "path": "frontend/src/pages/AINdaMatcherPage.js",
@@ -625,11 +911,42 @@
   {
     "name": "AI Post Close Narrative",
     "canonicalKey": "ai close narrative post",
-    "aliases": [
-      "AI Post Close Narrative Page"
-    ],
+    "aliases": [],
     "kinds": [
-      "navigation",
+      "ai-page",
+      "navigation"
+    ],
+    "routes": [
+      "/ai/post-close-narrative"
+    ],
+    "sourceProjects": [
+      "AIMandADealRoom"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIPostCloseNarrativePage.js",
+        "route": "/ai/post-close-narrative",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/components/Sidebar.js:79",
+        "route": "",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
+    "name": "AI Post Close Narrative Page",
+    "canonicalKey": "ai close narrative post",
+    "aliases": [],
+    "kinds": [
       "page"
     ],
     "routes": [
@@ -642,13 +959,6 @@
       "legal-compliance-risk/due-diligence-assistant"
     ],
     "evidence": [
-      {
-        "kind": "navigation",
-        "sourceProject": "AIMandADealRoom",
-        "path": "frontend/src/components/Sidebar.js:79",
-        "route": "",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
       {
         "kind": "page",
         "sourceProject": "AIMandADealRoom",
@@ -729,9 +1039,12 @@
     "canonicalKey": "a ai copilot q",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "navigation"
     ],
-    "routes": [],
+    "routes": [
+      "/ai/qa-copilot"
+    ],
     "sourceProjects": [
       "AIMandADealRoom"
     ],
@@ -739,6 +1052,13 @@
       "legal-compliance-risk/due-diligence-assistant"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIQaCopilotPage.js",
+        "route": "/ai/qa-copilot",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
       {
         "kind": "navigation",
         "sourceProject": "AIMandADealRoom",
@@ -779,9 +1099,12 @@
     "canonicalKey": "ai e memo qof",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "navigation"
     ],
-    "routes": [],
+    "routes": [
+      "/ai/qofe-memo"
+    ],
     "sourceProjects": [
       "AIMandADealRoom"
     ],
@@ -789,6 +1112,13 @@
       "legal-compliance-risk/due-diligence-assistant"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIQofeMemoPage.js",
+        "route": "/ai/qofe-memo",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
       {
         "kind": "navigation",
         "sourceProject": "AIMandADealRoom",
@@ -827,11 +1157,42 @@
   {
     "name": "AI Redaction Recommender",
     "canonicalKey": "ai recommender redaction",
-    "aliases": [
-      "AI Redaction Recommender Page"
-    ],
+    "aliases": [],
     "kinds": [
-      "navigation",
+      "ai-page",
+      "navigation"
+    ],
+    "routes": [
+      "/ai/redaction-recommender"
+    ],
+    "sourceProjects": [
+      "AIMandADealRoom"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIRedactionRecommenderPage.js",
+        "route": "/ai/redaction-recommender",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/components/Sidebar.js:83",
+        "route": "",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
+    "name": "AI Redaction Recommender Page",
+    "canonicalKey": "ai recommender redaction",
+    "aliases": [],
+    "kinds": [
       "page"
     ],
     "routes": [
@@ -845,13 +1206,6 @@
     ],
     "evidence": [
       {
-        "kind": "navigation",
-        "sourceProject": "AIMandADealRoom",
-        "path": "frontend/src/components/Sidebar.js:83",
-        "route": "",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
-      {
         "kind": "page",
         "sourceProject": "AIMandADealRoom",
         "path": "frontend/src/pages/AIRedactionRecommenderPage.js",
@@ -863,11 +1217,42 @@
   {
     "name": "AI Redline Summarizer",
     "canonicalKey": "ai redline summarizer",
-    "aliases": [
-      "AI Redline Summarizer Page"
-    ],
+    "aliases": [],
     "kinds": [
-      "navigation",
+      "ai-page",
+      "navigation"
+    ],
+    "routes": [
+      "/ai/redline-summarizer"
+    ],
+    "sourceProjects": [
+      "AIMandADealRoom"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIRedlineSummarizerPage.js",
+        "route": "/ai/redline-summarizer",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/components/Sidebar.js:72",
+        "route": "",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
+    "name": "AI Redline Summarizer Page",
+    "canonicalKey": "ai redline summarizer",
+    "aliases": [],
+    "kinds": [
       "page"
     ],
     "routes": [
@@ -880,13 +1265,6 @@
       "legal-compliance-risk/due-diligence-assistant"
     ],
     "evidence": [
-      {
-        "kind": "navigation",
-        "sourceProject": "AIMandADealRoom",
-        "path": "frontend/src/components/Sidebar.js:72",
-        "route": "",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
       {
         "kind": "page",
         "sourceProject": "AIMandADealRoom",
@@ -927,9 +1305,12 @@
     "canonicalKey": "ai approval check regulatory",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "navigation"
     ],
-    "routes": [],
+    "routes": [
+      "/ai/regulatory-approval-check"
+    ],
     "sourceProjects": [
       "AIMandADealRoom"
     ],
@@ -937,6 +1318,13 @@
       "legal-compliance-risk/due-diligence-assistant"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIRegulatoryCheckPage.js",
+        "route": "/ai/regulatory-approval-check",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
       {
         "kind": "navigation",
         "sourceProject": "AIMandADealRoom",
@@ -1015,11 +1403,42 @@
   {
     "name": "AI Risk Flag Extractor",
     "canonicalKey": "ai extractor flag risk",
-    "aliases": [
-      "AI Risk Flag Extractor Page"
-    ],
+    "aliases": [],
     "kinds": [
-      "navigation",
+      "ai-page",
+      "navigation"
+    ],
+    "routes": [
+      "/ai/risk-flag-extractor"
+    ],
+    "sourceProjects": [
+      "AIMandADealRoom"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIRiskFlagExtractorPage.js",
+        "route": "/ai/risk-flag-extractor",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/components/Sidebar.js:84",
+        "route": "",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
+    "name": "AI Risk Flag Extractor Page",
+    "canonicalKey": "ai extractor flag risk",
+    "aliases": [],
+    "kinds": [
       "page"
     ],
     "routes": [
@@ -1033,13 +1452,6 @@
     ],
     "evidence": [
       {
-        "kind": "navigation",
-        "sourceProject": "AIMandADealRoom",
-        "path": "frontend/src/components/Sidebar.js:84",
-        "route": "",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
-      {
         "kind": "page",
         "sourceProject": "AIMandADealRoom",
         "path": "frontend/src/pages/AIRiskFlagExtractorPage.js",
@@ -1049,13 +1461,70 @@
     ]
   },
   {
+    "name": "AI Risk Scorer",
+    "canonicalKey": "ai risk scorer",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/risk-scorer"
+    ],
+    "sourceProjects": [
+      "AIDueDiligenceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "frontend/src/pages/RiskScorer.js:1",
+        "route": "/risk-scorer",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
     "name": "AI Synergy Model",
     "canonicalKey": "ai model synergy",
-    "aliases": [
-      "AI Synergy Model Page"
-    ],
+    "aliases": [],
     "kinds": [
-      "navigation",
+      "ai-page",
+      "navigation"
+    ],
+    "routes": [
+      "/ai/synergy-model"
+    ],
+    "sourceProjects": [
+      "AIMandADealRoom"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AISynergyModelPage.js",
+        "route": "/ai/synergy-model",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/components/Sidebar.js:59",
+        "route": "",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
+    "name": "AI Synergy Model Page",
+    "canonicalKey": "ai model synergy",
+    "aliases": [],
+    "kinds": [
       "page"
     ],
     "routes": [
@@ -1069,13 +1538,6 @@
     ],
     "evidence": [
       {
-        "kind": "navigation",
-        "sourceProject": "AIMandADealRoom",
-        "path": "frontend/src/components/Sidebar.js:59",
-        "route": "",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
-      {
         "kind": "page",
         "sourceProject": "AIMandADealRoom",
         "path": "frontend/src/pages/AISynergyModelPage.js",
@@ -1087,11 +1549,42 @@
   {
     "name": "AI Term Sheet Compare",
     "canonicalKey": "ai compare sheet term",
-    "aliases": [
-      "AI Term Sheet Compare Page"
-    ],
+    "aliases": [],
     "kinds": [
-      "navigation",
+      "ai-page",
+      "navigation"
+    ],
+    "routes": [
+      "/ai/term-sheet-compare"
+    ],
+    "sourceProjects": [
+      "AIMandADealRoom"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AITermSheetComparePage.js",
+        "route": "/ai/term-sheet-compare",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/components/Sidebar.js:74",
+        "route": "",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
+    "name": "AI Term Sheet Compare Page",
+    "canonicalKey": "ai compare sheet term",
+    "aliases": [],
+    "kinds": [
       "page"
     ],
     "routes": [
@@ -1105,13 +1598,6 @@
     ],
     "evidence": [
       {
-        "kind": "navigation",
-        "sourceProject": "AIMandADealRoom",
-        "path": "frontend/src/components/Sidebar.js:74",
-        "route": "",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
-      {
         "kind": "page",
         "sourceProject": "AIMandADealRoom",
         "path": "frontend/src/pages/AITermSheetComparePage.js",
@@ -1123,11 +1609,42 @@
   {
     "name": "AI Term Sheet Diff Explainer",
     "canonicalKey": "ai diff explainer sheet term",
-    "aliases": [
-      "AI Term Sheet Diff Explainer Page"
-    ],
+    "aliases": [],
     "kinds": [
-      "navigation",
+      "ai-page",
+      "navigation"
+    ],
+    "routes": [
+      "/ai/term-sheet-diff-explainer"
+    ],
+    "sourceProjects": [
+      "AIMandADealRoom"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AITermSheetDiffExplainerPage.js",
+        "route": "/ai/term-sheet-diff-explainer",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/components/Sidebar.js:75",
+        "route": "",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
+    "name": "AI Term Sheet Diff Explainer Page",
+    "canonicalKey": "ai diff explainer sheet term",
+    "aliases": [],
+    "kinds": [
       "page"
     ],
     "routes": [
@@ -1140,13 +1657,6 @@
       "legal-compliance-risk/due-diligence-assistant"
     ],
     "evidence": [
-      {
-        "kind": "navigation",
-        "sourceProject": "AIMandADealRoom",
-        "path": "frontend/src/components/Sidebar.js:75",
-        "route": "",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
       {
         "kind": "page",
         "sourceProject": "AIMandADealRoom",
@@ -1199,11 +1709,42 @@
   {
     "name": "AI Vdr Question Router",
     "canonicalKey": "ai question router vdr",
-    "aliases": [
-      "AI Vdr Question Router Page"
-    ],
+    "aliases": [],
     "kinds": [
-      "navigation",
+      "ai-page",
+      "navigation"
+    ],
+    "routes": [
+      "/ai/vdr-question-router"
+    ],
+    "sourceProjects": [
+      "AIMandADealRoom"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIVdrQuestionRouterPage.js",
+        "route": "/ai/vdr-question-router",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/components/Sidebar.js:77",
+        "route": "",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
+    "name": "AI Vdr Question Router Page",
+    "canonicalKey": "ai question router vdr",
+    "aliases": [],
+    "kinds": [
       "page"
     ],
     "routes": [
@@ -1216,13 +1757,6 @@
       "legal-compliance-risk/due-diligence-assistant"
     ],
     "evidence": [
-      {
-        "kind": "navigation",
-        "sourceProject": "AIMandADealRoom",
-        "path": "frontend/src/components/Sidebar.js:77",
-        "route": "",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
       {
         "kind": "page",
         "sourceProject": "AIMandADealRoom",
@@ -1303,9 +1837,12 @@
     "canonicalKey": "ai capital true up working",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "navigation"
     ],
-    "routes": [],
+    "routes": [
+      "/ai/working-capital-true-up"
+    ],
     "sourceProjects": [
       "AIMandADealRoom"
     ],
@@ -1313,6 +1850,13 @@
       "legal-compliance-risk/due-diligence-assistant"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/AIWorkingCapitalPage.js",
+        "route": "/ai/working-capital-true-up",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
       {
         "kind": "navigation",
         "sourceProject": "AIMandADealRoom",
@@ -1345,6 +1889,402 @@
         "path": "react_api/routes/contracts.js:24",
         "route": "/:id/analysis",
         "originApp": "legal-compliance-risk/due-diligence-assistant"
+      }
+    ]
+  },
+  {
+    "name": "Analyze",
+    "canonicalKey": "analyze",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/:id/analyze",
+      "/analyze",
+      "/api/companies/:id/analyze",
+      "/api/competitors/:id/analyze",
+      "/api/deals/:id/analyze",
+      "/api/financials/:id/analyze",
+      "/api/integration-plans/:id/analyze",
+      "/api/legal/:id/analyze",
+      "/api/management/:id/analyze",
+      "/api/market/:id/analyze",
+      "/api/news/:id/analyze",
+      "/api/red-flag-detections/:id/analyze",
+      "/api/redflags/:id/analyze",
+      "/api/risk-scores/:id/analyze",
+      "/api/risks/:id/analyze",
+      "/api/synergies/:id/analyze",
+      "/api/valuations/:id/analyze"
+    ],
+    "sourceProjects": [
+      "AIColdChainMonitoringCompliance",
+      "AIContractNegotiationAssistant",
+      "AIDivorceFamilyLawNavigator",
+      "AIDueDiligenceAssistant",
+      "AISportsAgentContractAnalyzer",
+      "AIStrategicSourcingNegotiation",
+      "AITenantRightsAdvisor",
+      "AIVendorRiskPerformanceScorer"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/contract-negotiation-assistant",
+      "legal-compliance-risk/due-diligence-assistant",
+      "legal-compliance-risk/gdpr-data-mapping-privacy-manager",
+      "legal-compliance-risk/tenant-rights-advisor",
+      "legal-compliance-risk/vendor-contract-risk-monitor"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDivorceFamilyLawNavigator",
+        "path": "server/routes/assets.js:116",
+        "route": "/:id/analyze",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDivorceFamilyLawNavigator",
+        "path": "server/routes/crudFactory.js:146",
+        "route": "/:id/analyze",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDivorceFamilyLawNavigator",
+        "path": "server/routes/custody.js:113",
+        "route": "/:id/analyze",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDivorceFamilyLawNavigator",
+        "path": "server/routes/documentGen.js:136",
+        "route": "/:id/analyze",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDivorceFamilyLawNavigator",
+        "path": "server/routes/documents.js:111",
+        "route": "/:id/analyze",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDivorceFamilyLawNavigator",
+        "path": "server/routes/uploads.js:95",
+        "route": "/:id/analyze",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AITenantRightsAdvisor",
+        "path": "backend/routes/caseOutcomePrediction.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AITenantRightsAdvisor",
+        "path": "backend/routes/deadlineTracker.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AITenantRightsAdvisor",
+        "path": "backend/routes/documentAssembly.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AITenantRightsAdvisor",
+        "path": "backend/routes/localLawAdaptation.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AITenantRightsAdvisor",
+        "path": "backend/routes/negotiationSimulation.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AITenantRightsAdvisor",
+        "path": "backend/routes/resourceDirectory.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIColdChainMonitoringCompliance",
+        "path": "backend/routes/incidents.js:101",
+        "route": "/:id/analyze",
+        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIColdChainMonitoringCompliance",
+        "path": "backend/routes/temperature.js:302",
+        "route": "/:id/analyze",
+        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIContractNegotiationAssistant",
+        "path": "backend/src/routes/leaseAnalyzer.js:117",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIContractNegotiationAssistant",
+        "path": "backend/src/routes/riskClauseHighlighter.js:110",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AISportsAgentContractAnalyzer",
+        "path": "backend/src/routes/endorsementRecommender.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AISportsAgentContractAnalyzer",
+        "path": "backend/src/routes/injuryTimelinePredictor.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AISportsAgentContractAnalyzer",
+        "path": "backend/src/routes/leagueDataIngest.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AISportsAgentContractAnalyzer",
+        "path": "backend/src/routes/marketValuationEngine.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AISportsAgentContractAnalyzer",
+        "path": "backend/src/routes/negotiationSimulation.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AISportsAgentContractAnalyzer",
+        "path": "backend/src/routes/tradeScenarioAnalyzer.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIStrategicSourcingNegotiation",
+        "path": "backend/routes/contractObligationTracker.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIStrategicSourcingNegotiation",
+        "path": "backend/routes/invoiceAnomalyDetection.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIStrategicSourcingNegotiation",
+        "path": "backend/routes/marketplaceIntegration.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIStrategicSourcingNegotiation",
+        "path": "backend/routes/predictiveDeliveryRisk.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIStrategicSourcingNegotiation",
+        "path": "backend/routes/supplierDiversityOptimizer.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIStrategicSourcingNegotiation",
+        "path": "backend/routes/supplyChainResilienceMapping.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "backend/routes/founderCallAnalysis.js:42",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "backend/server.js:1106",
+        "route": "/api/competitors/:id/analyze",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "backend/server.js:1234",
+        "route": "/api/legal/:id/analyze",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "backend/server.js:1363",
+        "route": "/api/management/:id/analyze",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "backend/server.js:1494",
+        "route": "/api/deals/:id/analyze",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "backend/server.js:1624",
+        "route": "/api/risk-scores/:id/analyze",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "backend/server.js:1791",
+        "route": "/api/synergies/:id/analyze",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "backend/server.js:1968",
+        "route": "/api/valuations/:id/analyze",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "backend/server.js:2153",
+        "route": "/api/red-flag-detections/:id/analyze",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "backend/server.js:2336",
+        "route": "/api/integration-plans/:id/analyze",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "backend/server.js:334",
+        "route": "/api/companies/:id/analyze",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "backend/server.js:465",
+        "route": "/api/financials/:id/analyze",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "backend/server.js:596",
+        "route": "/api/news/:id/analyze",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "backend/server.js:721",
+        "route": "/api/risks/:id/analyze",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "backend/server.js:850",
+        "route": "/api/redflags/:id/analyze",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "backend/server.js:977",
+        "route": "/api/market/:id/analyze",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIVendorRiskPerformanceScorer",
+        "path": "backend/src/routes/esgControversyMonitor.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/vendor-contract-risk-monitor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIVendorRiskPerformanceScorer",
+        "path": "backend/src/routes/financialDistress.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/vendor-contract-risk-monitor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIVendorRiskPerformanceScorer",
+        "path": "backend/src/routes/nTierSupplyMapping.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/vendor-contract-risk-monitor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIVendorRiskPerformanceScorer",
+        "path": "backend/src/routes/riskAdjustedPricing.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/vendor-contract-risk-monitor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIVendorRiskPerformanceScorer",
+        "path": "backend/src/routes/supplierConsolidationEngine.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/vendor-contract-risk-monitor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIVendorRiskPerformanceScorer",
+        "path": "backend/src/routes/supplyChainNetworkRisk.js:46",
+        "route": "/analyze",
+        "originApp": "legal-compliance-risk/vendor-contract-risk-monitor"
       }
     ]
   },
@@ -1504,7 +2444,6 @@
     "name": "Approval Workflows",
     "canonicalKey": "approval workflow",
     "aliases": [
-      "Approval Workflow",
       "Approval Workflow Page",
       "Approval Workflows Page"
     ],
@@ -1515,7 +2454,6 @@
     "routes": [
       "/ApprovalWorkflowPage",
       "/ApprovalWorkflowsPage",
-      "/approval-workflow",
       "/approval-workflows"
     ],
     "sourceProjects": [
@@ -1527,13 +2465,6 @@
       "legal-compliance-risk/due-diligence-assistant"
     ],
     "evidence": [
-      {
-        "kind": "page",
-        "sourceProject": "AIStrategicSourcingNegotiation",
-        "path": "frontend/src/App.js:130",
-        "route": "/approval-workflow",
-        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
-      },
       {
         "kind": "page",
         "sourceProject": "AIStrategicSourcingNegotiation",
