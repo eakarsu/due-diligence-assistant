@@ -11,10 +11,10 @@
     "AIProposalSOWGenerator",
     "government_contracts"
   ],
-  "featureCount": 206,
-  "candidateFeatureCount": 330,
-  "eliminatedSimilarFeatures": 124,
-  "evidenceCount": 519,
+  "featureCount": 210,
+  "candidateFeatureCount": 343,
+  "eliminatedSimilarFeatures": 133,
+  "evidenceCount": 526,
   "aiPageCount": 23,
   "sourceAIPageCount": 23,
   "featureEvidencePolicy": "Existing source routes, pages, APIs, models, schemas, and navigation only",
@@ -22,8 +22,8 @@
   "database": "database.sqlite",
   "databaseSeed": {
     "seededProjects": 2,
-    "seededTables": 38,
-    "seededRows": 570
+    "seededTables": 37,
+    "seededRows": 555
   },
   "visibleFeatureCount": 86,
   "featureVisibilityMode": "seeded-or-ai"
