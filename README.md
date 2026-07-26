@@ -3,7 +3,7 @@
 Industry: **Legal, Compliance & Risk**  
 Specialization: **Due Diligence Assistant**
 
-This standalone application consolidates source-backed capabilities into 230 optimized features, including 95 visible data-backed or AI-enabled views. Its public demo SQLite database contains 555 sanitized source rows across 37 imported tables and 120 operational workflow records.
+This standalone application consolidates source-backed capabilities into 230 optimized features, including all 230 source-backed feature views. Its public demo SQLite database contains 555 sanitized source rows across 37 imported tables and 120 operational workflow records.
 
 ## Run locally
 
